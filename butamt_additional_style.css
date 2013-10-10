@@ -1,0 +1,52 @@
+.contentofthecell {
+        padding-top: 10px;
+        }
+.subjectofcontent {
+        margin-bottom:-10px;
+        margin-top:0px;
+        }
+.paragraphofcontent {
+        margin-bottom:0px;
+        }
+#userinput label {
+        display:block;
+        font-weight:bold;
+        color: #1c1c1c;
+        }
+#userinput input,
+#userinput textarea {
+        width: 300px;
+        margin-bottom:5px;
+        border: 1px #d5d5d5 solid;
+        display:block;
+        }
+#userinput textarea {
+        width: 300px;
+        height: 100px;
+        }
+#userinput input:hover,
+#userinput textarea:hover,
+#userinput input:focus,
+#userinput textarea:focus {
+        border: 1px #333 solid;
+        }
+#userinput .submitbutton {
+        width: 130px;
+        font-weight: bold;
+        border: 1px #a68064 solid;
+        background: #e47833;
+        cursor: pointer;
+        }
+#userinput .submitbutton:hover {
+        border: 1px #000 solid;
+        }
+#sitemap, #sitemap ul {
+        list-style-type: none;
+        padding-left: 10px;
+        }
+#sitemap {
+        line-height: 160%;
+        }
+#sitemap ul {
+        margin-left: 15px;
+        }

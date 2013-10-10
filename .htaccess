@@ -1,0 +1,12 @@
+RewriteEngine on
+RewriteRule ^index.html/?$ /index.php
+RewriteRule ^([^/\.]+).html/?$ /index.php?pancadewa=$1
+RewriteRule ^([^/\.]+)/([^/\.]+).html/?$ /index.php?pancadewa=$1&id=$2&title=$3
+RewriteRule ^([^/\.]+)/([^/\.]+)/search.([^/\.]+).html/?$ /index.php?pancadewa=$1&p=$3&search=$2
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+).html/?$ /index.php?pancadewa=$1&id=$2&title=$3
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)/([^/\.]+).html/?$ /index.php?pancadewa=$1&id=$3&title=$4&do=$2
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)/([^/\.]+).([^/\.]+).html/?$ /index.php?pancadewa=$1&id=$3&title=$4&do=$2&p=$5
+RewriteRule ^([^/\.]+).([^/\.]+).html/?$ /index.php?pancadewa=$1&p=$2
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+).([^/\.]+).html/?$ /index.php?pancadewa=$1&id=$2&title=$3&p=$4
+ErrorDocument 404 /
+ErrorDocument 400 /

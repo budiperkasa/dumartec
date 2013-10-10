@@ -1,0 +1,19 @@
+Subject: Notificacion de messatge novèl dins lo fòrom - {FORUM_NAME}
+
+Bonjorn {USERNAME},
+
+Recebètz aqueste corrièl per çò que susvelhatz lo fòrom, "{FORUM_NAME}" de "{SITENAME}". Aqueste fòrom a recebut un messatge novèl al tèma "{TOPIC_TITLE}" dempuèi vòstra darrièra visita. Podètz utilizar lo ligam seguent per veire la darrièra responsa non-lue. Notatz que recebretz pas pus de notificacion abans que tornetz sul tèma.
+
+{U_NEWEST_POST}
+
+Per veire lo tèma en entièr, clicatz sul ligam seguent :
+{U_TOPIC}
+
+Per visitar lo fòrom, clicatz sul ligam seguent :
+{U_FORUM}
+
+Si volètz pas pus susvelhar aqueste fòrom, clicatz sul ligam correspondent que se tròba enbas del fòrom o clicatz sul ligam seguent :
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

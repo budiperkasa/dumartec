@@ -1,0 +1,13 @@
+Subject: Notificacion de tèma novèl - {FORUM_NAME}
+
+Bonjorn {USERNAME},
+
+Recebètz aqueste corrièl per çò que susvelhatz lo fòrom, "{FORUM_NAME}" sus "{SITENAME}". Ce fòrom a recebut un tèma novèl dempuèi vòstra darrièra visita, "{TOPIC_TITLE}". Podètz utilizar lo ligam seguent per veire lo fòrom. Vos enviarem pas pus de notificacion abans que tornetz sul fòrom.
+
+{U_FORUM}
+
+Se volètz pas pus susvelhar aqueste fòrom, podètz clicar sul ligam correspondent que se tròba enbas del fòrom o clicar sul que seguís :
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

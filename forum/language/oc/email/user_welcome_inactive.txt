@@ -1,0 +1,22 @@
+Subject: Benvenguda suls fòroms de "{SITENAME}"
+ 
+{WELCOME_MSG}
+
+Vos conselham aqueste corrièl dins vòstras archivas. Vaquí los entresenhas que concernisson vòstre compte :
+
+----------------------------
+Nom d'utilizaire : {USERNAME}
+Mot de pas : {PASSWORD}
+
+Adreça del fòrom : {U_BOARD}
+----------------------------
+
+Vòstre compte es actualament inactiu. Lo poiretz pas utilizar tant qu'auretz pas visitat lo ligam seguent :
+
+{U_ACTIVATE}
+
+Doblidètz pas vòstre mot de pas es criptat dins nòstra basa de donadas e que lo poirem pas recobrar per vos. Ça que la, se doblidatz vòstre mot de pas, ne podètz demandar un novèl que serà activat del meteis biais que aqueste compte.
+
+Mercé de vos èsser enregistrat.
+
+{EMAIL_SIG}

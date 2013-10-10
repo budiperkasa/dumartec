@@ -1,0 +1,17 @@
+Subject: "{SITENAME}" - Enviat per correu electrònic a un amic
+
+Hola {TO_USERNAME},
+
+{FROM_USERNAME} t'ha enviat aquest correu electrònic des de "{SITENAME}" perquè pensa que pots estar interessat en el tema següent:
+
+{TOPIC_NAME}
+
+Pots trobar-lo a:
+
+{U_TOPIC}
+
+És possible que a continuació aparega un missatge de {FROM_USERNAME}. Tingues en compte que aquest missatge no ha estat vist ni aprovat pels administradors del fòrum. Si vols queixar-te per haver rebut aquest correu electrònic posa't en contacte amb l'administrador del fòrum a {BOARD_CONTACT} incloent-hi les capcaleres del missatge.
+
+----------
+
+{MESSAGE}

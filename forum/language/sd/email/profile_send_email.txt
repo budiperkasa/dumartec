@@ -1,0 +1,58 @@
+محترم {TO_USERNAME}
+
+
+
+السلام عليڪم!
+
+
+
+هيٺ هڪ برقي خط آهي جيڪو توهان کي {FROM_USERNAME} جي طرفان "{SITENAME}" تي موجود توهان جي کاتي جي ذريعي موڪليو ويو آهي، جيڪڏهن هي پيغام غير اخلاقي مواد يا نازيبا لفظن تي مشتمل هجي ته توهان بورڊ جي انتظاميا کي هيٺ ڏنل لنڪ ذريعي اطلاع ڪري سگهو ٿا ـ
+
+مهرباني ڪري اطلاع ڏيڻ وقت مڪمل برقي خط جي تحرير هيڊر سميت پنهنجي پيغام ۾ اقتتباس جي صورت ۾ شامل ڪريو
+
+
+
+{BOARD_CONTACT}
+
+
+
+
+
+توهان کي موڪليل برقي خط هي آهي:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+{MESSAGE}
+
+
+
+
+
+=========================
+
+Hello {TO_USERNAME},
+
+
+
+The following is an e-mail sent to you by {FROM_USERNAME} via your account on "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+
+
+
+{BOARD_CONTACT}
+
+
+
+Include this full e-mail (particularly the headers). Please note that the reply address to this e-mail has been set to that of {FROM_USERNAME}.
+
+
+
+Message sent to you follows
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+{MESSAGE}
+

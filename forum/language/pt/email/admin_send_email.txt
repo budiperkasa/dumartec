@@ -1,0 +1,14 @@
+
+A mensagem seguinte é um email enviado para você por um administrador do "{SITENAME}". Se a mensagem contém material abusivo, "spam", ou comentários que você ache ofensivos por favor contacte o "webmaster" dos fóruns no seguinte endereço:
+
+{CONTACT_EMAIL}
+
+Inclúa este email completo (particularmente os cabeçalhos).
+
+Mensagem enviada para você é a seguinte:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+
+
+{EMAIL_SIG}

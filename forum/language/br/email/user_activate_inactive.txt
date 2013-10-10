@@ -1,0 +1,7 @@
+Subject: Dizenaouet eo bet ho kont
+
+Demat {USERNAME},
+
+Dizoberiant eo bet lakaet ho kont war "{SITENAME}", moarvat peogwir ho peus kemmet traoù 'zo en ho aelad. Dav vo gortoz ma vo enaouet en-dro gant ur merour eus al lec'hienn a-raok ma c'hellfec'h ober gantañ en-dro. Ur postel a vo kaset deoc'h pa vo bet graet kement-mañ.
+
+{EMAIL_SIG}

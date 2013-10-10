@@ -1,0 +1,20 @@
+Subject: Instalação do phpBB
+
+Parabéns,
+
+O phpBB foi instalado corretamente no seu servidor.
+
+Este email possui informações importantes sobre a sua instalação que você deve guardar de forma segura. A sua Senha foi codificada na nossa Base de Dados e não pode ser recuperada, caso seja necessário.
+
+----------------------------
+Utilizador: {USERNAME}
+Senha: {PASSWORD}
+
+Endereço: {U_BOARD}
+----------------------------
+
+Algumas informações importantes sobre a sua instalação podem ser encontradas na pasta /docs de seu forum e na Página de Suporte do phpBB.Com - http://www.phpbb.com/support/
+
+Para manter o seu forum seguro, é altamente recomendável que você atualize o seu phpBB, ficando atento sempre que hava uma nova versão lançada, registando-se na Lista de emails do phpBB.Com, que está localizada no URL acima.
+
+{EMAIL_SIG}

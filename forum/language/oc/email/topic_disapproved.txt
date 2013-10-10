@@ -1,0 +1,12 @@
+Subject: Tèma refusé - {TOPIC_TITLE}
+
+Bonjorn {USERNAME},
+
+Recebètz aqueste corrièl per çò que vòstre messatge "{TOPIC_TITLE}" sus "{SITENAME}" es estat refusé per un moderaire o un administrator.
+
+Il l'es estat per la raison seguenta :
+
+{REASON}
+
+
+{EMAIL_SIG}

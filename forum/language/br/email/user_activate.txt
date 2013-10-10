@@ -1,0 +1,9 @@
+Subject: Adenaouit ho kont
+
+Demat {USERNAME},
+
+Dizoberiant eo bet lakaet ho kont war "{SITENAME}", moarvat peogwir ho peus kemmet traoù 'zo en ho aelad. Evit enaouiñ anezhañ en-dro eo dav deoc'h klikañ war al liamm amañ-dindan :
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}

@@ -1,0 +1,20 @@
+Subject: Welkom op "{SITENAME}"
+
+{WELCOME_MSG}
+
+Hieronder een overzicht van je registratie-informatie:
+
+Je account is aangemaakt met de volgende gegevens.
+
+----------------------------
+Gebruikersnaam:	{USERNAME}
+Wachtwoord:		{PASSWORD}
+
+Forum URL:		{U_BOARD}
+----------------------------
+
+Vergeet je wachtwoord zeker niet! Het wachtwoord is gecodeerd opgeslagen en kan dus nooit meer opgehaald worden. Mocht je jouw wachtwoord toch vergeten dan kan je eventueel een nieuw wachtwoord aanvragen via een link in het inlogscherm. 
+
+Bedankt voor je registratie!
+
+{EMAIL_SIG}

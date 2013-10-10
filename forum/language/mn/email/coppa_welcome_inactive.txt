@@ -1,0 +1,43 @@
+Subject: "{SITENAME}" forumd tavtai morilno uu.
+
+{WELCOME_MSG}
+
+COPPA-tai holbogdoh shaltgaanaar tani burtgel idevhigui baisaar baina.
+
+Ta ene medeelliig hevlej avaad etseg eh yumuu asran hamgaalagchiihaa gariin usgiig ognootoi ni oruulaad daraah hayagruu fax ilgeene uu:
+
+{FAX_INFO}
+
+Esvel ene hayagruu email ilgeej bolno:
+
+{MAIL_INFO}
+
+------------------------------ Taslah heseg ------------------------------
+"{SITENAME}" - {U_BOARD} oroltsoh handaltiin erhuud
+
+Hereglegchiin ner: {USERNAME}
+Nuuts ug: {PASSWORD}
+E-mail: {EMAIL_ADDRESS}
+
+Bi manai huuhdiin tuhai medeelsen enehuu medeelliig unshsan bogood ene mayagaar enehuu medeelliig hadgalah erhiig ene "{SITENAME}" -d olgoj baina. 
+Bi enehuu medeelliig hediid ch gesen nuuts ug oruulan oorchilj bolno gedgiig oilgoloo. 
+Bi ene medeelliig "{SITENAME}" -s ustguulahiin tuld hediid ch huselt gargaj bolohiig oilgoloo.
+
+
+Etseg eh yumuu asran hamgaalagch 
+(neree oruulna uu): _____________________
+
+(gariin useg end): __________________ 
+
+Ognoo: _______________
+
+------------------------------ Taslah heseg ------------------------------
+
+
+Deerh medeelliig fax yumuu erdiin email-r huleen avsnaar tanii burtgel idevhijih bolno6
+
+Tanii nuuts ug manai medeelliin sand kodlogdon orson bogood bid tand uuniig medej ogch chadahgui gedgiig anhaarna uu! Gehdee ta nuuts ugee martsan tohioldold burtgelee idevhijuulsen shig shine nuuts ug huleen avch bolno.
+
+Burtuulsend bayarlalaa!
+
+{EMAIL_SIG}

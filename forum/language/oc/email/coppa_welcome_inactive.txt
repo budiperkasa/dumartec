@@ -1,0 +1,43 @@
+Subject: Benvenguda sus "{SITENAME}"
+
+{WELCOME_MSG}
+
+En accord avec la COPPA, vòstre compte es actualament inactiu.
+
+Imprimez aqueste messatge e lo far signer e dater per vòstres parents o vòstres tuteurs. Puis, faxez-lo a :
+
+{FAX_INFO}
+
+Ou envoyez-lo a l'adreça electronica seguenta :
+
+{MAIL_INFO}
+
+------------------------------ DECOUPEZ ICI ------------------------------
+Permission de participar a "{SITENAME}" - {U_BOARD}
+
+Nom d'utilizaire : {USERNAME}
+Mot de pas : {PASSWORD}
+E-mail : {EMAIL_ADDRESS}
+
+J'AI VERIFIE LES INFORMATIONS FOURNIES PAR MON ENFANT ET DONNE LA PERMISSION A "{SITENAME}" DE STOCKER CETTE INFORMATION.
+JE CONÇOIS QUE CES INFORMATIONS PEUVENT ETRE MODIFIEES A TOUT MOMENT EN ENTRANT UN MOT DE PASSE.
+JE SAIS QUE JE PEUX DEMANDER LE RETRAIT DE CES INFORMATIONS A "{SITENAME}" A TOUT MOMENT.
+
+
+Parent o tuteur
+(Imprimez vòstre nom aicí): _____________________
+
+(Signez aicí): __________________ 
+
+Data : _______________
+
+------------------------------ DECOUPEZ ICI ------------------------------
+
+
+Una fois que l'administrator aura recebut lo tèxt çai-sus per fax o per corrièl, vòstre compte sera activat.
+
+Doblidètz pas vòstre mot de pas étant donné qu'il es crypté dins nòstra basa de donadas e que nous ne pourrons pas lo retrouver per vos. Toutefois, si vos oubliez vòstre mot de pas, ne podètz demandar un novèl que serà activat del meteis biais que aqueste compte.
+
+Mercé de vos èsser enregistrat.
+
+{EMAIL_SIG}

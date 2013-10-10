@@ -1,0 +1,7 @@
+Subject: Suppression del rapòrt - {POST_SUBJECT}
+
+Bonjorn {USERNAME},
+
+Recebètz aqueste corrièl per çò que lo rapòrt qu\'avètz fait sul messatge "{POST_SUBJECT}" del tèma "{TOPIC_TITLE}" de "{SITENAME}" es estat suprimit per un moderaire o un administrator.
+
+{EMAIL_SIG}

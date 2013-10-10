@@ -1,0 +1,9 @@
+Subject: Burtgelee dahin idevhijuulne uu
+
+Sain uu {USERNAME},
+
+"{SITENAME}" dahi tanii burtgel idevhigui bolloo, ene ni ihenhdee huviin tohirgoond hiigdsen oorchloltuudees boldog. Ta ooriihoo burtgeliig dahin idevhijuulehiin tuld daraahi holboos deer darna uu:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}

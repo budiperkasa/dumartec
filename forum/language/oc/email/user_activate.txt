@@ -1,0 +1,9 @@
+Subject: Tornatz activar vòstre compte
+
+Bonjorn {USERNAME},
+
+Vòstre compte sus "{SITENAME}" foguèt desactivat, probablement dû als modificacions effectuées dins vòstre perfil. Afin de tornar activar vòstre compte, vos devez clicar sul ligam çai-jos :
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}

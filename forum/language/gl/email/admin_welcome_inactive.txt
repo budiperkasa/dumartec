@@ -1,0 +1,20 @@
+Subject: Benvido a "{SITENAME}"
+
+{WELCOME_MSG}
+
+Porfavor garda este correo para a túa lembranza. A información da túa conta é a seguinte:
+
+----------------------------
+Nome de usuario: {USERNAME}
+Contrasinal: {PASSWORD}
+
+Enderezo URL do taboleiro: {U_BOARD}
+----------------------------
+
+A túa conta está actualmente inactiva. O administrador do taboleiro precisará activala antes de que poidas acceder. Recibirás outro correo-e cando esto ocorra.
+
+Porfavor non esquezas o contrasinal xa que este foi cifrado no noso banco de datos e non podemos recuperalo. Con todo, se o esqueceses, podes solicitar un novo que será activado do mesmo xeito que esta conta.
+
+Grazas por te rexistrares.
+
+{EMAIL_SIG}

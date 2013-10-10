@@ -1,0 +1,86 @@
+/*
+*
+* phpBB (c) 2000-2008 phpBB Group
+* http://www.phpbb.com
+* 
+* Bosanski prevod [Bosnian language pack] (c) 2008 Šehic Nijaz
+* http://medresamostar.com
+*
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, version 2 of the License.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program. If not, see <http://opensource.org/licenses/gpl-license.php>.
+*
+*/
+
+Bosanski prevod
+
+PREUZIMANJE
+
+TEKST možeš preuzeti sa phpbb.com/languages.
+
+TEKST
+lang_BH
+-->
+lang_BH.zip
+
+DEKOMPRIMIRANJE
+
+Bez obzira "koji/e zip/ove" preuzmeš, [svaki] "zip" moraš dekomprimirati.
+
+lang_BH.zip
+-->
+lang_BH --> /lang_BH/BH/...
+
+INSTALIRANJE
+
+Moraš slijediti "hijerarhiju foldera"/strukturu.
+
+TEKST
+[lang_BH]
+[/lang_BH/]
+--> lang_BH "smještaš" u folder --> /language/
+--> /language/BH
+
+Administriranje foruma
+-->
+Sistem
+-->
+Jezicki paketi
+-->
+Neinstaliran(i) jezicki paket(i)
+-->
+Instaliraj
+-->
+
+///////
+
+Jezik korisnika/ce
+--> Logiraš se
+--> Profil/Postavke
+--> Postavke
+--> Jezik foruma
+--> Izabereš s padajuceg menija jezik koji želiš
+--> Klikneš na "Pošalji"
+Time se automatski mijenja jezik za korisnicki racun korisnika/ce.
+Dok si neloginiran/a, forum ce (ti) biti prikazan na jeziku koji je odreðen za forum; kada se loginiraš, forum æe (ti) biti prikazan na jeziku koji si si odredio/la u profilu.
+
+Jezik foruma
+--> Logiraš se
+--> Administriranje foruma
+--> Opæenito
+--> Postavke foruma
+--> Zadani jezik
+--> Izabereš s padajuæeg popisa jezik koji želiš
+--> Klikneš na "Pošalji"
+Time se automatski mijenja jezik foruma.
+Dok je korisnik/ca neloginiran/a, forum æe (mu/joj) biti prikazan na jeziku koji je odreðen za forum; kada se loginira, forum æe (mu/joj) biti prikazan na jeziku koji si je odredio/la u profilu.
+
+///////

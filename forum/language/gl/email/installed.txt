@@ -1,0 +1,21 @@
+Subject: phpBB instalado
+
+Noraboa,
+
+Instalaches correctamente o phpBB no teu servidor.
+
+Este correo-e contén información importante verbo da túa instalación que deberías gardar de forma segura. O contrasinal foi cifrado no banco de datos e non pode ser recuperado. Con todo, podes solicitar un novo contrasinal se perdes este.
+
+----------------------------
+Nome de usuario: {USERNAME}
+Contrasinal: {PASSWORD}
+
+URL do Taboleiro: {U_BOARD}
+----------------------------
+
+Podes atopar información útil sobre a túa instalación do phpBB no cartafol de documentos da mesma e na páxina de soporte de phpBB.com -
+http://www.phpbb.com/support/
+
+Co fin de manter o taboleiro seguro e protexido, é especialmente recomendable que o manteñas actualizado cos lanzamentos de software que poderás conseguir doadamente subscribíndote á lista de correo do phpBB.com localizada no URL de enriba.
+
+{EMAIL_SIG}

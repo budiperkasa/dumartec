@@ -1,0 +1,48 @@
+Subject:توهان جي درخواست جي منظروي
+
+
+
+السلام عليڪم!
+
+
+
+مبارڪ!
+
+
+
+حوالو "{SITENAME}" تي توهان جي درخواست برائي رُڪنيت "{GROUP_NAME}" توهان کي اطلاع ڏجي ٿو ته توهان جي درخواست منظور ڪئي وئي آهي ـ گروپ جي رُڪنيت ڏسڻ لاءِ توهان هيٺ ڏنل لنڪ کي استعمال ڪري سگهو ٿا:
+
+
+
+{U_GROUP}
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+===========================
+
+Subject: Your request has been approved
+
+
+
+Congratulations,
+
+
+
+Your request to join the "{GROUP_NAME}" group on "{SITENAME}" has been approved.
+
+Click on the following link to see your group membership.
+
+
+
+{U_GROUP}
+
+
+
+{EMAIL_SIG}
+

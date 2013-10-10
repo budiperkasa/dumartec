@@ -1,0 +1,19 @@
+Subject: "{FORUM_NAME}" : ur gemennadenn nevez a zo bet kaset
+
+Demat {USERNAME},
+
+Kaset e vez ar postel-mañ deoc'h peogwir e talc'hit tost ouzh kemennadennoù ar forom "{FORUM_NAME}" war "{SITENAME}". War ar forom-se ez eus bet kaset ur respont nevez d'ar sujed "{TOPIC_TITLE}" abaoe ho kweladenn ziwezhañ. Gant al liamm amañ-dindan e c'hellit gwelet ar respont diwezhañ ha n'eo ket bet lennet ganeoc'h; ne vo kaset postel nevez ebet deoc'h ma vez kemennadennoù nevez keit ha ma n'ho po ket gweladennet ar sujed.
+
+{U_NEWEST_POST}
+
+M'ho peus c'hoant da welet ar sujed, klikit war al liamm amañ-dindan:
+{U_TOPIC}
+
+M'ho peus c'hoant da welet ar forom, klikit war al liamm amañ-dindan:
+{U_FORUM}
+
+Ma n'ho peus ket c'hoant ken da heuliañ nevezinti ar forom, klikit war "Paouez da heuliañ ar forom" war bajenn ar forom, pe war al liamm amañ-dindan :
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

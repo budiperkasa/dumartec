@@ -1,0 +1,8 @@
+<Files "config.php">
+Order Allow,Deny
+Deny from All
+</Files>
+<Files "common.php">
+Order Allow,Deny
+Deny from All
+</Files>

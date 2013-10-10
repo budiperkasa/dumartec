@@ -1,0 +1,10 @@
+Subject: S'ha aprovat la teua sol·licitud
+
+Enhorabona,
+
+S'ha aprovat la teua sol·licitud per afiliar-te al grup "{GROUP_NAME}" de "{SITENAME}".
+Fes clic a l'enllaç següent per visualitzar la teua afiliació al grup.
+
+{U_GROUP}
+
+{EMAIL_SIG}

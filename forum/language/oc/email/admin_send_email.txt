@@ -1,0 +1,14 @@
+
+Çò que seguís es un corrièl que vos mandèt un administrator de "{SITENAME}". Se aqueste messatge es un porrièl, conten de comentaris abusius o autra causa que vos convenga pas, contactatz lo webmaster de aqueste fòrom a l'adreça seguenta :
+
+{CONTACT_EMAIL}
+
+Inclusètz aqueste corrièl en entièr (e subretot los encaps).
+
+Messatge que vos mandèt :
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSATGE}
+
+
+{EMAIL_SIG}

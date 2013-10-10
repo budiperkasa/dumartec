@@ -1,0 +1,7 @@
+Subject: Contul activat
+
+Salut {USERNAME},
+
+Contul dumneavoastră de pe "{SITENAME}" a fost activat, puteţi să vă autentificaţi folosind numele de utilizator şi parola primite într-un mesaj anterior.
+
+{EMAIL_SIG}

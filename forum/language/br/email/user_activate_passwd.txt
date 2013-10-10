@@ -1,0 +1,17 @@
+Subject: Kadarnaat ho ker-tremen nevez
+
+Demat {USERNAME}
+
+Kaset eo bet ar postel-mañ deoc'h peogwir ez eus bet goulennet ur ger-tremen nevez dindan ho anv evit ho kont war "{SITENAME}". Ma n'ho peus ket goulennet cheñch ho ker-tremen, na daolit ket pled ouzh ar postel-mañ, ma resevit anezhañ ingal, kit e-darempred gant merour ar forom.
+
+Evit ober gant ho ker-tremen nevez eo dav deoc'h kadarnaat anezhañ. Gallout a rit ober kement-mañ o klikañ war al liamm amañ-dindan.
+
+{U_ACTIVATE}
+
+Ma teuit a-benn e vo tu deoc'h bezañ anavezet gant ar forom, oc'h ober gant ar ger-tremen nevez-mañ :
+
+Ger-tremen: {PASSWORD}
+
+Da c'houde e vo tu deoc'h cheñch ar ger-tremen-mañ e-barzh Panell-Merañ an Ezel. M'ho peus ur gudenn bennak, kit e-darempred gant merour ar forom.
+
+{EMAIL_SIG}

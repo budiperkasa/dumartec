@@ -1,0 +1,11 @@
+Subject: Ta ene bulgemd nemegdlee
+
+Bayar hurgey!,
+
+"{SITENAME}" iin "{GROUP_NAME}" bulgemd nemegdlee.
+Uuniig bulgebiin zohitsuulagch yumuu forumiin udirdagch hiisen bogood delgerengui medehiig husvel tedentei holboo barina uu.
+
+Ta bulgemiihee medeelliig endees uzej chadna:
+{U_GROUP}
+
+{EMAIL_SIG}

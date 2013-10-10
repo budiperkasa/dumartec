@@ -1,0 +1,8 @@
+Subject: Informe tancat - "{POST_SUBJECT}"
+
+Hola {USERNAME},
+
+Has rebut aquesta notificació perquè l'informe que has fet de l'entrada "{POST_SUBJECT}" al tema "{TOPIC_TITLE}" de "{SITENAME}" ha estat gestionat per un moderador o un administrador. Posteriorment s'ha tancat l'informe. Si tens més preguntes posa't en contacte amb {CLOSER_NAME} per missate privat.
+
+
+{EMAIL_SIG}

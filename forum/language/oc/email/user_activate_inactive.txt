@@ -1,0 +1,7 @@
+Subject: Vòstre compte foguèt desactivat
+
+Bonjorn {USERNAME},
+
+Vòstre compte sus "{SITENAME}" foguèt desactivat, ceci es certainement dû a una modificacion de vòstre perfil. L'administrator devra lo tornar activar afin que vos puissiez vos connectar. Vous serez avertis per corrièl quand cela sera fait.
+
+{EMAIL_SIG}

@@ -1,0 +1,15 @@
+Subject: Un messatge privat novèl ven d'arriver
+
+Bonjorn {USERNAME},
+
+Vous avez recebut un messatge privat novèl de "{AUTHOR_NAME}" sus "{SITENAME}" ayant per objet :
+
+{SUBJECT}
+
+Podètz veire vòstre messatge novèl en cliquant sul ligam seguent :
+
+{U_INBOX}
+
+Vous avez demandat a èsser averti dins aqueste cas, rappelez-vos que podètz choisir de ne plus èsser averti de l'arrivée de messatges privats novèls en modifiant l'option appropriée dins vòstre perfil.
+
+{EMAIL_SIG}

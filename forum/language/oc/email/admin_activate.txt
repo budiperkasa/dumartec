@@ -1,0 +1,14 @@
+Subject: Activar un compte utilizaire
+
+Bonjorn,
+
+Lo compte que perten a "{USERNAME}" ven d'èsser desactivat o novelament creat. Debètz verificar los detalhs d'aqueste utilizaire (se es necessari).
+
+Clicatz sus aqueste ligam per consultar lo perfil d'aqueste utilizaire :
+{U_USER_DETAILS}
+
+Activatz son compte en utilizant lo ligam seguent :
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

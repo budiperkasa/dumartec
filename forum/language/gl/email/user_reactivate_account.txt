@@ -1,0 +1,19 @@
+Subject: Reactivar a túa conta en "{SITENAME}"
+
+Un administrador do taboleiro requeriu a reactivación da túa conta, polo que agora mesmo a mesma está inactiva.
+Porfavor, segue os chanzos indicados de seguido para reactivar a túa conta.
+
+Por favor conserva este correo electrónico para a túa lembranza. Os datos da túa conta son os seguintes:
+
+----------------------------
+Nome de usuario: {USERNAME}
+----------------------------
+
+Por favor, non esquezas o teu contrasinal, xa que se encontra encriptado no noso banco de datos en non podemos recuperalo. Porén, se esqueces o teu contrasinal, podes volver pedir un novo que se activará do mesmo xeito que esta conta.
+
+Por favor, visita a seguinte ligazón para reactivar a túa conta:
+
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

@@ -1,0 +1,7 @@
+Subject: Fermeture de rapòrt - {POST_SUBJECT}
+
+Bonjorn {USERNAME},
+
+Recebètz aqueste corrièl per çò que lo rapòrt qu\'avètz fait sul messatge "{POST_SUBJECT}" del tèma "{TOPIC_TITLE}" de "{SITENAME}" es estat vu per un moderaire o un administrator. Aqueste rapòrt es dorénavant classé. S'avètz dels questions, envoyez un messatge privat a {CLOSER_NAME}.
+
+{EMAIL_SIG}

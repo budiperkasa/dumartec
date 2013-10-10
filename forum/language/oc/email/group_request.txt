@@ -1,0 +1,10 @@
+Subject: Una demanda per rejoindre vòstre grop es estat formulée
+
+Cher {USERNAME},
+
+Un utilizaire demanda a dintrar dins lo grop "{GROUP_NAME}" que moderatz sus "{SITENAME}".
+Per aprobar/refusar aquesta demanda, clicatz sul ligam seguent :
+
+{U_PENDING}
+
+{EMAIL_SIG}

@@ -1,0 +1,14 @@
+
+Kaset eo bet ar postel-mañ deoc'h gant ur merour eus "{SITENAME}". Ma kavit direizh ar postel-mañ, kit e-darempred gant saver al lec'hienn :
+
+{CONTACT_EMAIL}
+
+Ma skrivit un dra bennak d'ar saver, lakait ar postel a-bezh (an talbennoù dreist-holl). 
+
+Setu ar postel a zo bet kaset deoc'h:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+
+
+{EMAIL_SIG}

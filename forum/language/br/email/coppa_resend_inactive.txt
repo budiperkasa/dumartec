@@ -1,0 +1,42 @@
+Subject: Degemer mat war "{SITENAME}"
+
+{WELCOME_MSG}
+
+Dre ma toujomp da lezennoù ar c'hCOPPA, n'ez a ket c'hoazh ho kont en-dro evit poent.
+
+Dav eo deoc'h moulañ ar gemennadenn-mañ, ha lakaat anezhi da vezañ sinet gant ho tud pe ar re a zo e-karg ouzhoc'h. Goude se eo ret deoc'h kas anezhi dre belleier da :
+
+{FAX_INFO}
+
+PE dre bostel da:
+
+{MAIL_INFO}
+
+----------------------------TROC'HIT AMAÑ ----------------------------
+Aotre da gemer perzh war "{SITENAME}" - {U_BOARD}
+
+Anv-ezel: {USERNAME}
+Postel: {EMAIL_ADDRESS}
+
+LENNET EM EUS AN TITOUROÙ A ZO BET ROET GANT AR BUGEL EMAON E-KARG OUTAÑ HAG E AOTREAN MA VEFE DALC'HET AN TITOUROÙ-MAÑ GANT "{SITENAME}" . 
+KOMPREN A RAN E C'HELL AN TITOUROÙ-MAÑ BEZAÑ KEMMET FORZH PEGOULZ DRE REIÑ UR GER-TREMEN. 
+KOMPREN A RAN E C'HELLAN GOULENN FORZH PEGOULZ MA VEFE TENNET AN TITOUROÙ-MAÑ OUZH "{SITENAME}".
+
+
+An hini a ra war-dro ar bugel 
+(lakait ho anv amañ): _____________________
+
+(sinit amañ): __________________ 
+
+Deiziad: _______________
+
+----------------------------TROC'HIT AMAÑ ----------------------------
+
+
+Pa vo bet resevet kement-mañ gant ar merour, dre belleier pe dre bostel, e vo enaouet ho kont.
+
+Dalc'hit soñj eo bet rineget ho ker-tremen en hon diaz-titouroù, setu ne vimp ket evit adkavout anezhañ deoc'h. Ma kollit anezhañ memes tra e vo tu deoc'h goulenn unan nevez, hag adenaouet e vo ho kont evel ma'z eo bet enaouet amañ.
+
+Trugarez da vezañ emezelet.
+
+{EMAIL_SIG}

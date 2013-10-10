@@ -1,0 +1,20 @@
+Subject: S'ha instal·lat el phpBB
+
+Enhorabona,
+
+Has instal·lat correctament el phpBB al teu servidor.
+
+Aquest correu electrònic conté informació important sobre la instal·lació i és recomanable que la conserves en un lloc segur. La contasenya ha estat encriptada a la base de dades i no es pot recuperar, tot i que pots sol·licitar-ne una nova si oblideu aquesta.
+
+----------------------------
+Nom d'usuari: {USERNAME}
+Contrasenya: {PASSWORD}
+
+URL del fòrum: {U_BOARD}
+----------------------------
+
+Pots trobar informació útil sobre la instal·lació del phpBB a la carpeta "docs" i a la pàgina de suport de phpBB.com - http://www.phpbb.com/support/
+
+Per mantindre els fòrums segurs és molt recomanable que mantingues el fòrum actualitzat amb les versions més recents per a la qual cosa es recomana que subscriure's a la llista de correu de phpBB.com fent clic a l'enllaç següent.
+
+{EMAIL_SIG}

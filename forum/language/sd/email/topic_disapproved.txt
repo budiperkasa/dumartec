@@ -1,0 +1,55 @@
+Subject: موضوع "{TOPIC_TITLE}" جي نامنظوري
+
+
+
+محترم {USERNAME}
+
+
+
+السلام عليڪم!
+
+
+
+بحوالہ "{SITENAME}"  تي توهان جي طرفان شروع ڪيل موضوع بعنوان "{TOPIC_TITLE}" توهان کي اطلاع ڏجي ٿو ته توهان جي طرفان شروع ڪيل موضوع فورم جي انتظاميا جي طرفان هيٺ ڏنل وجهه جي بنياد تي اشاعت جي لاءِ منظور نه ڪيو ويو:
+
+
+
+
+
+{REASON}
+
+
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+===============================
+
+Subject: Topic disapproved - "{TOPIC_TITLE}"
+
+
+
+Hello {USERNAME},
+
+
+
+You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was disapproved by a moderator or administrator.
+
+
+
+The following reason was given for the disapproval:
+
+
+
+{REASON}
+
+
+
+
+
+{EMAIL_SIG}

@@ -1,0 +1,10 @@
+Subject: Unan bennak en deus goulennet bezañ ouzhpennet en ho strollad
+
+Demat {USERNAME},
+
+Goulennet ez eus bet gant un ezel bezañ ouzhpennet er strollad "{GROUP_NAME}" a rit war e dro war "{SITENAME}".
+Evit asantiñ pe nac'hañ ar goulenn-mañ, heuliit al liamm amañ-dindan :
+
+{U_PENDING}
+
+{EMAIL_SIG}

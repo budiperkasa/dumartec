@@ -1,0 +1,17 @@
+Subject: Activacion del mot de pas novèl
+
+Bonjorn {USERNAME}
+
+Recebètz aqueste corrièl parce qu\'avètz (o quelqu'un qui prétend èsser vos) demandat a aqueste qu'un mot de pas novèl vos siá enviat per vòstre compte sus "{SITENAME}". Se vos n'avez pas demandat aqueste corrièl, podètz l'ignorer. Se vos continuez a lo recevoir, contactatz l'administrator del forum.
+
+Per utilizar lo mot de pas novèl, avètz besoin de l'activer. Per aqueste far, clicatz sul ligam fourni çai-jos.
+
+{U_ACTIVATE}
+
+Se cela réussit, vos pourrez vos connectar amb lo mot de pas seguent :
+
+Mot de pas : {PASSWORD}
+
+Podètz bien sûr cambiar vos-meteissa aqueste mot de pas via vòstre perfil. Se vos rencontrez dels difficultés, contactatz l'administrator del forum.
+
+{EMAIL_SIG}

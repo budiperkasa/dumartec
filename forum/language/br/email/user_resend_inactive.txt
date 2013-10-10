@@ -1,0 +1,20 @@
+Subject: Degemer mat war "{SITENAME}"
+
+{WELCOME_MSG}
+
+Dalc'hit ar postel-mañ en ho tielloù. Setu titouroù diwar-benn ho kont :
+
+----------------------------
+Anv-Ezel : {USERNAME}
+----------------------------
+
+Rineget eo bet ho ker-tremen en hon diaz-titouroù. Ma vefe kollet ganeoc'h e c'hellfec'h goulenn unan nevez a vefe enaouet er memes doare ma vez enaouet ar c'hont-mañ bremañ.
+
+N'eo ket oberiant ho kont c'hoazh. Evit lakaat anezhañ da vezañ oberiant, klikit war al liamm amañ-dindan:
+
+{U_ACTIVATE}
+
+
+Trugarez evit bezañ emezelet.
+
+{EMAIL_SIG}

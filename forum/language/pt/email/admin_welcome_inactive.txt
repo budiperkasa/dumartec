@@ -1,0 +1,20 @@
+Subject: Bem-vindo ao "{SITENAME}"
+
+{WELCOME_MSG}
+
+Por favor guardar este email para consultas posteriores. A informação da sua conta é a seguinte:
+
+----------------------------
+Utilizador: {USERNAME}
+Senha: {PASSWORD}
+
+Board URL: {U_BOARD}
+----------------------------
+
+A sua conta actualmente encontra-se inativa. O administrador dos fóruns exigiu que ela seja activada antes que você possa utilizá-la. Logo que isso aconteçer você ira receber� outro email.
+
+Por favor não esque�a a sua senha já que foi codificada na nossa base de dados e não a podemos recuperar para lhe dar caso a peça. Contudo, caso se esqueça da senha, pode solicitar uma nova, sendo activada da mesma forma desta conta.
+
+Obrigado por Registrar-se.
+
+{EMAIL_SIG}

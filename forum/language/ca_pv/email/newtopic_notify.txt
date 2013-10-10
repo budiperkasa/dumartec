@@ -1,0 +1,13 @@
+Subject: Notificació de tema nou - "{FORUM_NAME}"
+
+Hola {USERNAME},
+
+Has rebut aquesta notificació perquè estàs subscrit al fòrum, "{FORUM_NAME}" a "{SITENAME}". S'ha publicat un tema nou en aquest fòrum des de la teua darrera visita. Pots fer servir l'enllaç següent per veure el fòrum, no rebràs més notificacions fins que visites el fòrum.
+
+{U_FORUM}
+
+Si ja no vols estar subscrit a aquest fòrum pots fer clic a l'enllaç "Cancel·la la subscripció a aquest fòrum" ubicat a la part inferior del fòrum indicat, o bé fent clic a l'enllaç següent:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

@@ -1,0 +1,59 @@
+Subject: New topic notification - "{FORUM_NAME}"
+
+Hello {USERNAME},
+
+You are receiving this notification because you are watching the forum, "{FORUM_NAME}" at "{SITENAME}". This forum has received a new topic since your last visit, "{TOPIC_TITLE}". You can use the following link to view forum, no more notifications will be sent until you visit the forum.
+
+{U_FORUM}
+
+If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}
+
+{U_FORUM}
+
+
+
+هن سلسلي ۾ توهان کي ان وقت تائين وڌيڪ ڪوبه اطلاع نامو نه موڪليو ويندو جيستائين توهان موجوده اطلاع نامي جي جواب ۾ ذڪر ڪيل فورم جو دورو نه ٿا ڪريوـ
+
+جيڪڏهن توهان وڌيڪ عرصي جي لاءِ هن فورم کي زير نظر نه ٿا رکڻ چاهيو  ته توهان فورم ۾ موجود ”هن فورم ۾ شراڪت داري ختم ڪريو“ تي ڪلڪ ڪري سگهو ٿا. ان مقصد جي لاءِ هيٺ ڏنل لنڪ تي به ڪلڪ ڪري سگهيجي ٿي ـ
+
+
+
+{U_STOP_WATCHING_FORUM}
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+Subject: New topic notification - "{FORUM_NAME}"
+
+
+
+Hello {USERNAME},
+
+
+
+You are receiving this notification because you are watching the forum, "{FORUM_NAME}" at "{SITENAME}". This forum has received a new topic since your last visit, "{TOPIC_TITLE}". You can use the following link to view forum, no more notifications will be sent until you visit the forum.
+
+
+
+{U_FORUM}
+
+
+
+If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+
+
+
+{U_STOP_WATCHING_FORUM}
+
+
+
+{EMAIL_SIG}

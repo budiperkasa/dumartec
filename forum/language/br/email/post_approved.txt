@@ -1,0 +1,14 @@
+Subject: Asantet eo bet ho kemennadenn - "{POST_SUBJECT}"
+
+Demat {USERNAME},
+
+Kaset e vez ar postel-mañ deoc'h peogwir eo bet asantet ho kemennadenn war ar sujed "{POST_SUBJECT}" war "{SITENAME}" gant ur merour pe ur c'hasour.
+
+M'ho peus c'hoant da welet ar gemennadenn, klikit amañ-dindan :
+{U_VIEW_POST}
+
+M'ho peus c'hoant da welet ar sujed, klikit amañ-dindan :
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

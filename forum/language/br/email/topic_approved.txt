@@ -1,0 +1,11 @@
+Subject: Sujed bet degemeret - "{TOPIC_TITLE}"
+
+Demat {USERNAME},
+
+Kaset e vez ar postel-mañ deoc'h peogwir eo bet degemeret ho sujed "{TOPIC_TITLE}" war "{SITENAME}" gant ur merour pe ur c'hasour.
+
+M'ho peus c'hoant da welet ar sujed, klikit amañ-dindan :
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

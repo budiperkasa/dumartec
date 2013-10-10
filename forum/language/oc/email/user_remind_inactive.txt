@@ -1,0 +1,10 @@
+Subject: Vòstre compte es totjorn inactiu
+
+Bonjorn {USERNAME},
+
+Lo {REGISTER_DATE}, avètz creat un compte sus "{SITENAME}", e l'avètz totjorn pas activat aqueste e es obligatòri per vos connectar al fòrom. Per aquò, utilizatz lo ligam seguent :
+{U_ACTIVATE}
+
+Mercé per vòstra inscripcion a "{SITENAME}", e per vòstre futura participacion.
+
+{EMAIL_SIG}

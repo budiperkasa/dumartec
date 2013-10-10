@@ -1,0 +1,20 @@
+Subject: staliet eo bet phpBB
+
+Gourc'hemennoù,
+
+Staliet eo bet phpBB war ho servijour.
+
+Er postel-mañ ez eus titouroù a-bouez a vo ret deoc'h mirout ha diwall outo. Rineget eo bet ar ger-tremen, setu ne vo ket tu deomp adkavout anezhañ evidoc'h ma vez kollet, met gallout a rafec'h goulenn kaout unan nevez.
+
+----------------------------
+Anv-ezel : {USERNAME}
+Ger-tremen : {PASSWORD}
+
+Kavlec'h ar forom : {U_BOARD}
+----------------------------
+
+Titouroù dedennus diwar-benn ho staliadur a c'hell bezañ kavet e-barzh an teuliad bet implijet ganeoc'h evit staliañ phpBB, pe war bajenn skoazell phpBB - http://www.phpbb.com/support/
+
+A-benn ma vefe dalc'het ho forom e surentez e aliomp ac'hanoc'h start da staliañ buan an arrevalioù nevez pa vezont embannet. Gallout a rit bezañ kelaouet buan eus kement-se ma emezelit d'hon listenn-skignañ. 
+
+{EMAIL_SIG}

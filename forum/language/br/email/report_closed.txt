@@ -1,0 +1,8 @@
+Subject: Klozet eo bet an danevell evit "{POST_SUBJECT}"
+
+Demat {USERNAME},
+
+Kaset eo bet ar postel-mañ deoc'h abalamour d'an danevell ho peus savet diwar-benn ar gemennadenn "{POST_SUBJECT}" e-barzh "{TOPIC_TITLE}" war "{SITENAME}". Ur merour pe ur c'hasour a zo bet oc'h ober war e dro, hag a-benn ar fin eo bet klozet an danevell. M'ho peus c'hoant da goaut titouroù ouzhpenn, kasit ur gerig prevez da {CLOSER_NAME}.
+
+
+{EMAIL_SIG}

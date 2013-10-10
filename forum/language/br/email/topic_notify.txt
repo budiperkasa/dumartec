@@ -1,0 +1,20 @@
+Subject: Respontet ez eus bet d'ho kemennadenn - "{TOPIC_TITLE}"
+
+Demat {USERNAME},
+
+Kaset eo bet ar sujed-mañ peogwir e talc'hit tost da respontoù ar sujed "{TOPIC_TITLE}" war "{SITENAME}". Ur respont d'an nebeutañ a zo bet kaset deoc'h abaoe ho kweladenn ziwezhañ. Gallout a rit ober gant al liammoù amañ-dindan evit gwelet ar respontoù a zo bet graet dezhañ; ne vo kaset postel ebet ken deoc'h diwar-benn ar sujed-mañ ma n'it ket da welet ar sujed.
+
+M'ho peus c'hoant da welet ar c'hemennadennoù neveshañ abaoe ho kweladenn ziwezhañ, gwelit al liamm amañ-dindan :
+{U_NEWEST_POST}
+
+M'ho peus c'hoant da welet ar sujed a-bezh, klikit amañ :
+{U_TOPIC}
+
+M'ho peus c'hoant da welet ar forom, klikit amañ :
+{U_FORUM}
+
+Ma n'ho peus ket c'hoant ken da heuliañ nevezinti ar sujed-mañ klikit war "Paouez da heuliañ ar sujed" e-traoñ pajenn ar sujed, pe neuze klikit war al liamm amañ-dindan :
+
+{U_STOP_WATCHING_TOPIC}
+
+{EMAIL_SIG}

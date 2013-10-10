@@ -1,0 +1,57 @@
+Subject: غير فعال کاتو /يادڏيارڻ
+
+
+
+محترم {USERNAME}!
+
+
+
+السلام عليڪم !
+
+
+
+"{SITENAME}" تي مورخه {REGISTER_DATE} تي روهان هڪ نئين کاتو ٺاهيو هوليڪن اڃا تائين تواهن ان کي فعال ناهي ڪرايو جڏهن ته فورم ۾ لاگ ان ٿيڻ لاءِ ان جو فعال هجڻ ضروري آهي ـ توهان جي سهولت جي لاءِ ان کاتي کي فعال ڪرڻ جي لاءِ هيٺ ڏنل لنڪ ٻيهر مهيا ڪئي وڃِ ٿي جنهن تي ڪلڪ ڪري توهان پنهنجو کاتو فعال ڪرائي سگهو ٿا:
+
+
+
+
+
+{U_ACTIVATE}
+
+
+
+"{SITENAME}"  تي رُڪنيت اختيار ڪرڻ لاءِ مهرباني، اسان توهان کي هر ممڪن سهولت فراهم ڪرڻ لاءِ هر وقت ڪوشان آهيون ـ
+
+
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+=============================
+
+Subject: Inactive account reminder
+
+
+
+Hello {USERNAME},
+
+
+
+On {REGISTER_DATE} you registered a new account at "{SITENAME}". To date you have not activated this account which is a prerequisite for board login. For your convenience the activation link is repeated below.
+
+
+
+{U_ACTIVATE}
+
+
+
+Thank you for registering at "{SITENAME}", we look forward to your participation.
+
+
+
+{EMAIL_SIG}

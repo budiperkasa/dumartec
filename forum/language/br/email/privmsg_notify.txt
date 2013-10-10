@@ -1,0 +1,15 @@
+Subject: Ur Gerig Prevez nevez a zo bet kaset deoc'h
+
+Demat {USERNAME},
+
+Ur Gerig Prevez nevez a zo bet kaset deoc'h gant "{AUTHOR_NAME}" war "{SITENAME}", setu peseurt titl a zo gantañ :
+
+{SUBJECT}
+
+Gallout a rit lenn anezhañ o klikañ amañ-dindan :
+
+{U_INBOX}
+
+Goulennet ho peus bezañ kelaouet pa vez kaset ur Gerig Prevez deoc'h, dalc'hit soñj e c'hellit goulenn chom hep bezañ kelaouet o cheñch an dilennoù a zere e-barzh Panell-Merañ an Ezel.
+
+{EMAIL_SIG}

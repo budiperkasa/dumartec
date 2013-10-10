@@ -1,0 +1,13 @@
+
+Demat {TO_USERNAME},
+
+Kaset eo bet ar postel-mañ deoc'h gant {FROM_USERNAME} dre ho kont war "{SITENAME}". Ma vezit chalet gant ar pezh a zo er postel-mañ hag ho peus c'hoant da glemm ouzh ar merour, setu peadra da vont e-darempred gantañ:
+
+{BOARD_CONTACT}
+
+Kasit ar postel a zo bet kaset deoc'h a-bezh dezhañ (an talbennoù dreist-holl). Setu ar postel d'ober gantañ evit ar respont : {FROM_USERNAME}.
+
+Setu ar pezh a zo bet kaset deoc'h
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

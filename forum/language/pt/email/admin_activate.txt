@@ -1,0 +1,14 @@
+Subject: Registo de Novo utilizador
+
+Olá,
+
+A conta em nome de "{USERNAME}" foi desactivada ou criada de novo. Você deverá verificar os detalhes deste novo utilizador (caso necessário) e activá-la apropriadamente.
+
+Use este endereço para ver o perfil do utilizador:
+{U_USER_DETAILS}
+
+Use este endereço para activar a conta:
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

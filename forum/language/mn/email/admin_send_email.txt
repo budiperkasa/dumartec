@@ -1,0 +1,12 @@
+
+Enehuu email tand "{SITENAME}"-iin udirdagchaas ilgeegdsen baina. Herev ene ni ul hussen medeelel, esvel yamar negen yos bus medeelel aguulj baina gej ta uzvel daraah hayagaar forumiin udirdagchtai holboo barina uu:
+
+{CONTACT_EMAIL}
+
+Tand irsen medeelel:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+
+
+{EMAIL_SIG}

@@ -1,0 +1,81 @@
+Subject: نيئن پاس ورڊ جي فعاليت
+
+
+
+محترم {USERNAME}
+
+
+
+السلام عليڪم!
+
+
+
+توهان کي هيءُ اطلاع ان غرض سان موڪليو پيو وڃي ته توهان  ﴿يا ڪنهن ٻئي ماڻهو توهان جي نالي سان ﴾ نئين پاس ورڊ جي لاءِ درخواست ڏسي آهي  ـ جنهن تي ڪارروائي ڪندي  "{SITENAME}".  تي موجود روهان جي کاتي جي لاءِ هڪ نئون پاس ورڊ توهان کي موڪليو پيو وڃي ـ جيڪڏهن توهان هي درخواست ناهي ڏني ته توهان هن اطلاع نامي تي ڏيان نه ڏيو ـ ان جي باوجود جيڪڏهن توهان کي ان قسم جا پيغام اچن ٿا ته توهان بورڊ جي منتظمن سان رابطو ڪريو ـ
+
+جيڪڏهن توهان ان سلسلي ۾ درخواست ڏني آهي نئين پاس ورڊ جي استعمال ڪرڻ کان پهرين ان کي فعال ڪرڻ ضروري آهي جيڪڏهن توهان هن کي فعال ڪرڻ چاهيو ٿا ته هيٺ ڏنل لنڪ تي ڪلڪ ڪريو:
+
+
+
+
+
+{U_ACTIVATE}
+
+
+
+هي عمل ڪاميابيءَ سان مڪمل ڪرڻ کان پوءِ توهان هيٺ ڏنل پاس ورڊ جي ذريعي فورم ۾ لاگ ان ٿي سگهو ٿا:
+
+
+
+
+
+پاس ورڊ: {PASSWORD}
+
+
+
+توهان هن پاس ورڊ کي پنهنجي پروفائيل ۾ مهيا ڪيل سهولت جي ذريعي جڏهن چاهيو تبديل ڪري سگهو ٿا ـ جيڪڏهن ان سسلسلي ۾ ڪا رڪاوٽ هجي ته توهان فورم جي انتظاميا سان رابطو ڪري سگهو ٿا ـ مهرباني
+
+
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+
+
+Subject: New password activation
+
+
+
+Hello {USERNAME}
+
+
+
+You are receiving this notification because you have (or someone pretending to be you has) requested a new password be sent for your account on "{SITENAME}". If you did not request this notification then please ignore it, if you keep receiving it please contact the board administrator.
+
+
+
+To use the new password you need to activate it. To do this click the link provided below.
+
+
+
+{U_ACTIVATE}
+
+
+
+If successful you will be able to login using the following password:
+
+
+
+Password: {PASSWORD}
+
+
+
+You can of course change this password yourself via the profile page. If you have any difficulties please contact the board administrator.
+
+
+
+{EMAIL_SIG}

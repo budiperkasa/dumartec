@@ -1,0 +1,39 @@
+Subject: تحرير جي سلسلي ۾ شڪايت "{POST_SUBJECT}" ختم ـ
+
+
+
+محترم {USERNAME}
+
+
+
+السلام عليڪم!
+
+
+
+حوالو  "{SITENAME}" تي "{TOPIC_TITLE}"  نالي موضوع ۾ تحرير بعنوان "{POST_SUBJECT}" جي سلسلي ۾ توهان جي موڪليل شڪايت لاءِ توهان کي مطلع ٿو ڪجي ته فورم جي ايڊيٽر/بورڊ جي انتظاميا توهان جي تحرير کي ختم ڪري ڇڏيو آهي اطلاع ڏجي ٿو ـ
+
+
+
+
+
+{EMAIL_SIG}
+
+===============================
+
+
+
+Subject: Report deleted - "{POST_SUBJECT}"
+
+
+
+Hello {USERNAME},
+
+
+
+You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was deleted by a moderator or by an administrator.
+
+
+
+
+
+{EMAIL_SIG}

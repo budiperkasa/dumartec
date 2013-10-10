@@ -1,0 +1,76 @@
+Subject: Welcome to "{SITENAME}"
+
+{WELCOME_MSG}
+
+Please keep this e-mail for your records. Your account information is as follows:
+
+----------------------------
+Username: {USERNAME}
+Password: {PASSWORD}
+
+Board URL: {U_BOARD}
+----------------------------
+
+Your account is currently inactive. You cannot use it until you visit the following link:
+
+{U_ACTIVATE}
+
+Please do not forget your password as it has been encrypted in our database and we cannot retrieve it for you. However, should you forget your password you can request a new one which will be activated in the same way as this account.
+
+Thank you for registering.
+
+{EMAIL_SIG}مهرباني ڪري پنهنجي پاس ورڊ کي ياد رکندا، توهان جو پاس ورڊ اسانجي ڊيٽابيس ۾ ڪوڊ/رمز جي صورت ۾ محفوظ آهي جنهن کي ٻيهر کولي پڙهڻ اسان جي لاءِ ممڪن نه آهي، ان هوندي به پاس ورڊ ڀلجي وڃڻ جي صورت ۾ توهان نئين پاس ورڊ لاءِ درخواست ڏئي سگهو ٿا جنهن کي وصول ڪرڻ کان پوءِ توهان کي فورم جي کاتي جي طرز تي فعال ڪرڻ ضروري ٿيندو
+
+رُڪنيت اختيار ڪرڻ تي اسان توهان جا ٿورائتا آهيون
+
+.
+
+
+
+{EMAIL_SIG}
+
+
+
+Subject: Welcome to "{SITENAME}"
+
+
+
+{WELCOME_MSG}
+
+
+
+Please keep this e-mail for your records. Your account information is as follows:
+
+
+
+----------------------------
+
+Username: {USERNAME}
+
+Password: {PASSWORD}
+
+
+
+Board URL: {U_BOARD}
+
+----------------------------
+
+
+
+Your account is currently inactive. You cannot use it until you visit the following link:
+
+
+
+{U_ACTIVATE}
+
+
+
+Please do not forget your password as it has been encrypted in our database and we cannot retrieve it for you. However, should you forget your password you can request a new one which will be activated in the same way as this account.
+
+
+
+Thank you for registering.
+
+
+
+{EMAIL_SIG}

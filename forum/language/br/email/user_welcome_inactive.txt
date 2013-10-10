@@ -1,0 +1,22 @@
+Subject: Degemer mat war "{SITENAME}"
+
+{WELCOME_MSG}
+
+Dalc'hit ar postel-mañ en ho tielloù. Setu titouroù diwar-benn ho kont :
+
+----------------------------
+Anv-Ezel : {USERNAME}
+Ger-tremen : {PASSWORD}
+
+Board URL: {U_BOARD}
+----------------------------
+
+N'eo ket oberiant ho kont evit poent. A-raok gallout implijout anezhañ eo dav deoc'h klikañ war al liamm amañ-dindan :
+
+{U_ACTIVATE}
+
+Rineget e vez ho ker-tremen en hon diaz-titouroù, setu ma vefe kollet ganeoc'h, ne vefemp ket evit kavout anezhañ deoc'h en-dro. Met ma vefe kollet ganeoc'h e c'hellfec'h goulenn unan nevez, a vefe enaouet er memes doare ma'z eo bet enaouet ar c'hont-mañ.
+
+Trugarez evit bezañ emezelet.
+
+{EMAIL_SIG}

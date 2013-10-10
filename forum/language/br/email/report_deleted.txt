@@ -1,0 +1,8 @@
+Subject: Danevell bet diverket - "{POST_SUBJECT}"
+
+Demat {USERNAME},
+
+Kaset eo bet ar postel-mañ deoc'h peogwir eo bet diverket ho tanevell diwar-benn "{POST_SUBJECT}" e-barzh "{TOPIC_TITLE}" war "{SITENAME}" gant ur merour pe ur c'hasour.
+
+
+{EMAIL_SIG}

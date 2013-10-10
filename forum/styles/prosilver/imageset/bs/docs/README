@@ -1,0 +1,117 @@
+/*
+*
+* phpBB (c) 2000-2007 phpBB Group
+* http://www.phpbb.com
+*
+* Bosanski jezik [Bosnian language pack] (c) 2003-2008 Šehic Nijaz
+* http://medresamostar.com
+*
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, version 2 of the License.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program. If not, see <http://opensource.org/licenses/gpl-license.php>.
+*
+*/
+
+Bosanski jezik
+
+Prijevod phpBB foruma, s engleskog i hrvatskog, na bosanski jezik "cine" 2 "stvari": TEKST i SLIKE.
+
+PREUZIMANJE
+
+TEKST i SLIKE možeš preuzeti sa phpbb.com/languages.
+
+TEKST
+lang_BS
+-->
+lang_BS.zip
+
+SLIKE
+prosilver_BS
+i
+subsilver2_BS
+-->
+prosilver_BS.zip
+i
+subsilver2_BS.zip
+
+DEKOMPRIMIRANJE
+
+Bez obzira "koji/e zip/ove" preuzmeš, [svaki] "zip" moraš dekomprimirati.
+
+lang_BS.zip
+-->
+lang_BS --> /lang_BS/BS/...
+
+prosilver_BS.zip
+-->
+prosilver_BS --> /prosilver_BS/prosilver/imageset/BS/...
+
+subsilver2.zip
+-->
+subsilver2_BS --> /subsilver2_BS/subsilver2/imageset/BS/...
+
+INSTALIRANJE
+
+Moraš slijediti "hijerarhiju folder(a)"/strukturu.
+
+TEKST
+[lang_BS]
+[/lang_BS/]
+--> lang_BS "smještaš" u folder --> /language/
+--> /language/BS
+
+SLIKE
+[prosilver_BS]
+[/prosilver/imageset/BS/]
+--> prosilver_BS "smještaš" u folder --> /imageset/
+--> /styles/prosilver/imageset/BS
+i
+[subsilver2_BS]
+[/subsilver2/imageset/BS/]
+--> subsilver2_BS "smještaš" u folder --> /imageset/
+--> /styles/subsilver2/imageset/BS
+
+-->
+Administriranje foruma
+-->
+Sistem
+-->
+Jezicni paketi
+-->
+Neinstaliran(i) jezicni paket(i)
+-->
+Instaliraj
+-->
+
+///////
+
+Jezik korisnika/ce
+--> Loginiraš se
+--> Profil/Postavke
+--> Postavke
+--> Jezik foruma
+--> Izabereš s padajuæeg popisa jezik koji želiš
+--> Klikneš na "Pošalji"
+Time se automatski mijenja jezik za korisnièki raèun korisnika/ce.
+Dok si neloginiran/a, forum æe (ti) biti prikazan na jeziku koji je odreðen za forum; kada se loginiraš, forum æe (ti) biti prikazan na jeziku koji si si odredio/la u profilu.
+
+Jezik foruma
+--> Loginiraš se
+--> Administriranje foruma
+--> Opæenito
+--> Postavke foruma
+--> Zadani jezik
+--> Izabereš s padajuæeg popisa jezik koji želiš
+--> Klikneš na "Pošalji"
+Time se automatski mijenja jezik foruma.
+Dok je korisnik/ca neloginiran/a, forum æe (mu/joj) biti prikazan na jeziku koji je odreðen za forum; kada se loginira, forum æe (mu/joj) biti prikazan na jeziku koji si je odredio/la u profilu.
+
+///////

@@ -1,0 +1,11 @@
+Subject: Dalc'hit soñj eo dav deoc'h enaouiñ ho kont
+
+Demat {USERNAME},
+
+D'an {REGISTER_DATE} ho peus krouet ur c'hont war "{SITENAME}". Hiziv, n'eo ket bet enaouet ar c'hont-mañ, c'hoazh, ha ret eo ma vefe enaouet evit ma c'hellfec'h bezañ anavezet gant ar forom. Reiñ a reomp deoc'h en-dro al liamm evit enaouiñ ho kont.
+
+{U_ACTIVATE}
+
+Trugarez evit bezañ emezelet war "{SITENAME}", ken ma voc'h lennet.
+
+{EMAIL_SIG}

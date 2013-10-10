@@ -1,0 +1,7 @@
+Subject: Compte activat
+
+Hola {USERNAME},
+
+S'ha activat el vostre compte a "{SITENAME}", ja podeu iniciar la sessió utilitzant el nom d'usuari i la contrasenya que vau rebre en un correu electrònic anterior.
+
+{EMAIL_SIG}

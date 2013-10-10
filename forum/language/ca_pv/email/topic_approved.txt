@@ -1,0 +1,11 @@
+Subject: Tema aprovat - "{TOPIC_TITLE}"
+
+Hola {USERNAME},
+
+Has rebut aquesta notificació perquè el teu tema "{TOPIC_TITLE}" a "{SITENAME}" ha estat aprovat per un moderador o un administrador.
+
+Si vols visualitzar el tema, fes clic a l'enllaç següent:
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

@@ -1,0 +1,20 @@
+Subject: Benvingut a "{SITENAME}"
+
+{WELCOME_MSG}
+
+Si us plau, guardeu aquest correu electrònic per a la vostra informació. Les dades del vostre compte són les següents:
+
+----------------------------
+Nom d'usuari: {USERNAME}
+----------------------------
+
+La vostra contrasenya està encriptada a la base de dades. Si l'oblideu en podeu demanar una nova que s'activarà de la mateixa manera que aquest compte.
+
+Actualment el vostre compte és inactiu. No podeu utilitzar-lo fins que visiteu l'enllaç següent:
+
+{U_ACTIVATE}
+
+
+Gràcies per registrar-vos.
+
+{EMAIL_SIG}

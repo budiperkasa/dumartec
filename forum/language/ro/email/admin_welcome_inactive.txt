@@ -1,0 +1,20 @@
+Subject: Bine aţi venit la "{SITENAME}"
+
+{WELCOME_MSG}
+
+Vă rugăm sa păstraţi acest mesaj. Informaţia pentru contul dumneavoastră:
+
+-----------------------------
+Nume utilizator  : {USERNAME}
+Parolã           : {PASSWORD}
+
+Adresa forumului : {U_BOARD}
+-----------------------------
+
+Contul dumneavoastră este deocamdată inactiv. Va fi nevoie ca administratorul forumului sã vi-l activeze înainte să vă puteţi autentifica. Veţi primi un alt mesaj când se va întâmpla acest lucru.
+
+Incearcaţi să nu vă uitaţi parola deoarece aceasta a fost stocată codat în baza noastră de date şi nu o putem recupera pentru dumneavoastră. Dacă totuşi o veţi uita, veţi putea cere o parola nouă care va fi activata la fel cum a fost activat acest cont de utilizator.
+
+Va mulţumim pentru înregistrare.
+
+{EMAIL_SIG}

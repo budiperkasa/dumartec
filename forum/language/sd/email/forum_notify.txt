@@ -1,0 +1,101 @@
+Subject: Forum post notification - "{FORUM_NAME}"
+
+Hello {USERNAME},
+
+You are receiving this notification because you are watching the forum, "{FORUM_NAME}" at "{SITENAME}". This forum has received a new reply to the topic "{TOPIC_TITLE}" since your last visit. You can use the following link to view the last unread reply, no more notifications will be sent until you visit the topic.
+
+{U_NEWEST_POST}
+
+If you want to view the topic, click the following link:
+{U_TOPIC}
+
+If you want to view the forum, click the following link:
+{U_FORUM}
+
+If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}
+وڌيڪ اطلاع نه موڪليو ويندو جيستائين توهان متعلقه فورم جو دورو ڪري ذڪر هيٺ آيل موضوع جو مطالعو نه ڪندا ـ
+
+جوابي تحرير جو براه راست مطالعو ڪرڻ لاءِ هي لنڪ استعمال ڪريو:
+
+
+
+{U_NEWEST_POST}
+
+
+
+جيڪڏهن توهان مڪمل موضوع جو مطالعو ڪرڻ چاهيو ٿا ته هيٺ ڏنل لنڪ کي استعمال ڪريو:
+
+{U_TOPIC}
+
+
+
+۽ جيڪڏهن توهان متعلقه فورم تي وڃڻ چاهيو ٿا ته توهان هيٺِن لنڪ استعمال ڪريو:
+
+
+
+{U_FORUM}
+
+
+
+جيڪڏهن توهان موضوع کي وڌيڪ عرصي لاءِ نظر هيٺ نه ٿا رکڻ چاهيو ته هيٺ ڏنل لنڪ تي ڪلڪ ڪريو:
+
+
+
+
+
+{U_STOP_WATCHING_FORUM}
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+
+
+
+
+Subject: Forum post notification - "{FORUM_NAME}"
+
+
+
+Hello {USERNAME},
+
+
+
+You are receiving this notification because you are watching the forum, "{FORUM_NAME}" at "{SITENAME}". This forum has received a new reply to the topic "{TOPIC_TITLE}" since your last visit. You can use the following link to view the last unread reply, no more notifications will be sent until you visit the topic.
+
+
+
+{U_NEWEST_POST}
+
+
+
+If you want to view the topic, click the following link:
+
+{U_TOPIC}
+
+
+
+If you want to view the forum, click the following link:
+
+{U_FORUM}
+
+
+
+If you no longer wish to watch this forum you can either click the "Unsubscribe forum" link found in the forum above, or by clicking the following link:
+
+
+
+{U_STOP_WATCHING_FORUM}
+
+
+
+{EMAIL_SIG}
+

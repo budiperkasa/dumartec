@@ -1,0 +1,17 @@
+Subject: "{SITENAME}" - Postel o tont eus ar forom
+
+Demat {TO_USERNAME},
+
+Kaset eo bet ar postel-mañ adalek "{SITENAME}" gant {FROM_USERNAME} a soñje dezhañ/dezhi e c'hellfec'h bezañ dedennet gant ar sujed da heul :
+
+{TOPIC_NAME}
+
+Gallout a rit gwelet ar sujed oc'h heuliañ al liamm-mañ :
+
+{U_TOPIC}
+
+Ur gerig eus {FROM_USERNAME} a zo ivez amañ-dindan. N'eo ket bet gwelet pe asantet ar postel-mañ gant merour ar forom. M'ho peus c'hoant da glemm ouzh ar greig-mañ, kit e-darempred gant ar merour : {BOARD_CONTACT}. Lakait talbennoù ar postel e-barzh ho kemennadenn.
+
+----------
+
+{MESSAGE}

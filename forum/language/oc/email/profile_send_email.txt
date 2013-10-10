@@ -1,0 +1,13 @@
+
+Bonjorn {TO_USERNAME},
+
+L'corrièl seguent vos es estat enviat per {FROM_USERNAME} dempuèi son compte sus "{SITENAME}". Se aqueste messatge conten del spam, dels termes abusifs o dels comentaris que vos trouvez choquants, contactatz l'administrator del forum a partir del ligam seguent :
+
+{BOARD_CONTACT}
+
+Dins aqueste cas, il faudra inclure aqueste corrièl en entièr (particulièrement l'encap).
+
+Vaquí lo messatge que vos mandèt :
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSATGE}

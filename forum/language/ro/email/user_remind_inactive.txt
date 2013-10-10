@@ -1,0 +1,11 @@
+Subject: Reamintire cont inactiv
+
+Salut {USERNAME},
+
+Pe {REGISTER_DATE} aţi înregistrat un nou cont la "{SITENAME}". Până acum nu aţi activat acest cont, trebuie să faceţi asta înainte să puteţi să vă logaţi. Pentru utilitatea dumneavoastră, vă repetăm link-ul mai jos.
+
+{U_ACTIVATE}
+
+Vă mulţumim că v-aţi înregistrat la "{SITENAME}", aşteptăm în continuare participarea dumneavoastră.
+
+{EMAIL_SIG}

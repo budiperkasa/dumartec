@@ -1,0 +1,10 @@
+Subject: Asantet eo bet ho koulenn
+
+Gourc'hemennoù,
+
+Asantet eo bet ho koulenn evit bezañ er strollad "{GROUP_NAME}" war "{SITENAME}".
+Klikit war al liamm amañ-dindan evit kaout titouroù ouzhpenn.
+
+{U_GROUP}
+
+{EMAIL_SIG}

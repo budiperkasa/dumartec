@@ -1,0 +1,18 @@
+Subject: Benvingut a "{SITENAME}"
+
+{WELCOME_MSG}
+
+Desa aquest correu per a la teua informació. Les dades del compte són les següents:
+
+----------------------------
+Nom d'usuari: {USERNAME}
+Contrasenya: {PASSWORD}
+
+URL del fòrum: {U_BOARD}
+----------------------------
+
+No oblides la contrasenya ja que està encriptada a la base de dades i no es pot recuperar. No obstant, si l'oblides en podràs demanar una nova que s'activarà de la mateixa manera que aquest compte.
+
+Gràcies per registrar-te.
+
+{EMAIL_SIG}

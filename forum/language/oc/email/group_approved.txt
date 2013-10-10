@@ -1,0 +1,10 @@
+Subject: Vòstra demanda es estada aprobada
+
+Òsca,
+
+Vòstra demanda d'inscripcion al grop "{GROUP_NAME}" sus "{SITENAME}" es estada aprobada.
+Clicatz sul ligam seguent per veire los sòcis de vòstre grop.
+
+{U_GROUP}
+
+{EMAIL_SIG}

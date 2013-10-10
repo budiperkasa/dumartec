@@ -1,0 +1,17 @@
+Subject: "{SITENAME}" - Contacter un amic
+
+Bonjorn {TO_USERNAME},
+
+Cet corrièl es estat enviat dempuèi "{SITENAME}" per {FROM_USERNAME} que pensèt que lo tèma seguent vos poiriá interessar :
+
+{TOPIC_NAME}
+
+Lo podètz tornar trobar en clicant sul ligam çai-jos :
+
+{U_TOPIC}
+
+Un messatge de {FROM_USERNAME} pòt tanben èsser inclus çai-jos. Notatz que aqueste messatge foguèt pas vist o aprobat per un administrator. Si vos volètz planher d'aqueste corrièl, contactatz los administrators a {BOARD_CONTACT}. Doblidètz pas de citar l'encap d'aqueste messatge quand utilizatz aquesta adreça.
+
+----------
+
+{MESSATGE}

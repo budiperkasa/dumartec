@@ -1,0 +1,13 @@
+Subject: "{FORUM_NAME}" : ur sujed nevez a zo bet kaset
+
+Demat {USERNAME},
+
+Kaset e vez ar postel-mañ deoc'h peogwir e talc'hit tost d'ar forom, "{FORUM_NAME}" war "{SITENAME}". Ur sujed nevez a zo bet savet warnañ, "{TOPIC_TITLE}". Gant al liamm amañ-dindan e c'hellit gweladenniñ ar forom, ne vo kaset postel all ebet deoc'h keit ha ma n'ho po ket bet gweladennet ar forom.
+
+{U_FORUM}
+
+Ma n'ho peus ket c'hoant ken da heuliañ nevezinti ar forom-mañ, klikit war "Paouez da heuliañ ar forom" war bajenn ar forom, pe war al liamm amañ-dindan:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

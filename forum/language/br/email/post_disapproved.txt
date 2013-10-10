@@ -1,0 +1,12 @@
+Subject: Nac'het eo bet ho kemennadenn - "{POST_SUBJECT}"
+
+Demat {USERNAME},
+
+Kaset e vez ar postel-mañ deoc'h peogwir n'eo ket bet asantet ho kemennadenn war ar sujed  "{POST_SUBJECT}" war "{SITENAME}" gant ur merour pe ur c'hasour.
+
+An abeg-mañ a zo bet roet evit nac'hañ anezhi :
+
+{REASON}
+
+
+{EMAIL_SIG}

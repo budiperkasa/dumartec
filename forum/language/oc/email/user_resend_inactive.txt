@@ -1,0 +1,18 @@
+Subject: Benvenguda suls fòroms de "{SITENAME}"
+
+{WELCOME_MSG}
+
+Gardatz aqueste corrièl per memòria. Los entresenhas de vòstre compte son los suivantes :
+
+----------------------------
+Escais : {USERNAME}
+----------------------------
+
+Doblidètz pas que vòstre mot de pas foguèt criptat dins nòstra basa de donadas e que lo poirem pas recobrar per vos. Ça que la, se perdètz vòstre mot de pas, ne podètz demandar un autre que serà activat del meteis biais que vòstre compte.
+
+Vòstre compte es actualament inactiu. Lo podètz pas utilizar abans d'aver visitat lo ligam seguent :
+{U_ACTIVATE}
+
+Mercé per vòstra inscripcion.
+
+{EMAIL_SIG}

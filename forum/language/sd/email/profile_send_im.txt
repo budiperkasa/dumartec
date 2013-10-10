@@ -1,0 +1,70 @@
+Hello {TO_USERNAME},
+
+The following is a message sent to you by {FROM_USERNAME} via your account on "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+
+{BOARD_CONTACT}
+
+Include this full message. Please note that the sender address has been set to the boards IM account.
+
+Message sent to you follows
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+هيٺ ڏنل پتي تي بورڊ جي منتظم سان رابطو ڪريو:
+
+
+
+{BOARD_CONTACT}
+
+
+
+مهرباني ڪري اهڙي صورت ۾ هن مڪمل پيغام کي به پنهنجي تحرير۾ شامل ڪريو، 
+
+
+
+unt.
+
+
+
+توهان کي موڪليل پيغام هي آهي:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+{MESSAGE}
+
+
+
+
+
+
+
+
+
+
+
+Hello {TO_USERNAME},
+
+
+
+The following is a message sent to you by {FROM_USERNAME} via your account on "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+
+
+
+{BOARD_CONTACT}
+
+
+
+Include this full message. Please note that the sender address has been set to the boards IM account.
+
+
+
+Message sent to you follows
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+{MESSAGE}
+

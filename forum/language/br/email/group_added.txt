@@ -1,0 +1,11 @@
+Subject: Ouzhpennet oc'h bet d'ar strollad-mañ
+
+Gourc'hemennoù,
+
+Ouzhpennet oc'h bet d'ar strollad "{GROUP_NAME}" war "{SITENAME}".
+Gant an hini a zo e-penn ar strollad pe gant merour ar forom ez eus bet graet kement-mañ, kit e-darempred ganto evit kaout titouroù ouzhpenn.
+
+Gallout a rit gwelet titouroù diwar-benn ar strollad-mañ amañ:
+{U_GROUP}
+
+{EMAIL_SIG}

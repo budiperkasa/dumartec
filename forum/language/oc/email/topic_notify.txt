@@ -1,0 +1,19 @@
+Subject: Notificacion de responsa a un tèma - {TOPIC_TITLE}
+
+Bonjorn {USERNAME},
+
+Recebètz aqueste corrièl per çò que susvelhatz lo tèma, "{TOPIC_TITLE}" sus "{SITENAME}". Aqueste tèma a recebut una responsa dempuèi vòstra darrièra visita. Vous ne recevrez plus aucune autre notification jusqu'a vòstre prochaine visite sul tèma.
+
+Per veire los nouvelles responsas, clicatz sul ligam seguent :
+{U_NEWEST_POST}
+
+Per veire lo tèma dins son ensemble, clicatz sul ligam seguent :
+{U_TOPIC}
+
+Per visitar lo forum, clicatz sul ligam seguent :
+{U_TOPIC}
+
+Se volètz pas pus susvelhar aqueste tèma, podètz siá clicar sul ligam "Arrestar de susvelhar aqueste tèma" en bas del tèma çai-sus, siá clicar sul ligam seguent :
+{U_STOP_WATCHING_TOPIC}
+
+{EMAIL_SIG}

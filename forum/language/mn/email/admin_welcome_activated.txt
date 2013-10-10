@@ -1,0 +1,6 @@
+Subject: Burtgel idevhijlee
+Hello {USERNAME},
+
+"{SITENAME}" dahi tanii burtgel idevhijlee. Mg omnoh 2 email-r huleen avsan hereglegchiin ner bolon nuuts ugee ashiglan nevterne uu!
+
+{EMAIL_SIG}

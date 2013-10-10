@@ -1,0 +1,14 @@
+Subject: Shine hereglegchiin burtgel
+
+Sain baina uu,
+
+ "{USERNAME}" iin hereglej bui burtgel idevhigui bolson esvel shineer uusgegdsen, ta ene hereglegchiin tuhai delgerengui medeelliig shalgaj (shaardlagatai bol) 
+
+End darj hereglegchiin medeelliig uzne uu:
+{U_USER_DETAILS}
+
+End darj hereglegchiin burtgeliig idevhijuulne uu:
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

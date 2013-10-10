@@ -1,0 +1,40 @@
+Subject: Benvido a "{SITENAME}"
+
+{WELCOME_MSG}
+
+Dacordo co COPPA a túa conta está actualmente inactiva.
+Por favor, imprime esta mensaxe e dálla a asinar e datar ao teu pai ou titor. Logo envíaa por fax a:
+
+{FAX_INFO}
+
+ou por correo-e a:
+
+{MAIL_INFO}
+
+---------------------cortar por aquí--------------------------------
+Autorización para participar en "{SITENAME}" - {U_BOARD}
+
+Nome de usuario: {USERNAME}
+Contrasinal:{PASSWORD}
+Correo-e:{EMAIL_ADDRESS}
+
+COMPROBEI A INFORMACIÓN PROPORCIONADA POLO MEU FILLO/TUTELADO E POR ESTE MEDIO AUTORIZO A "{SITENAME}" A GARDAR ESTA INFORMACIÓN.
+ENTENDO QUE ESTA INFORMACIÓN PODE SER MUDADA EN CALQUERA MOMENTO POR MEDIO DUN CONTRASINAL.
+ENTENDO QUE PODO SOLICITAR A ELIMINACIÓN DESTA INFORMACIÓN EN CALQUERA MOMENTO DE "{SITENAME}".
+
+
+Pai ou titor:
+(escribe o teu nome aquí): _____________________
+
+(asina aquí): __________________
+
+Data: _______________
+
+---------------------cortar por aquí--------------------------------
+
+Unha vez que o administrador reciba o formulario anterior vía fax ou correo ordinario a túa conta será activada.
+Por favor, non esquezas o teu contrasinal porque foi cifrado na nosa base de datos e non podemos recuperala. Con todo, se o esqueces podes solicitar un novo que será activado do mesmo xeito que esta conta.
+
+Grazas por te rexistrares.
+
+{EMAIL_SIG}

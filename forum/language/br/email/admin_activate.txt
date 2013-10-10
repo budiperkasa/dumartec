@@ -1,0 +1,14 @@
+Subject: Enaouiñ kont un ezel
+
+Demat,
+
+Lakaet eo bet kont "{USERNAME}" dizoberiant, pe neuze emañ o paouez bezañ krouet. Gallout a rit mont da welet titouroù an ezel-mañ (ma vez ezhomm), hag enaouiñ anezhañ.
+
+Klikit war al liamm-mañ evit gwelet aelad an ezel:
+{U_USER_DETAILS}
+
+Klikit war al liamm-mañ evit enaouiñ e gont:
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

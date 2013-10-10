@@ -1,0 +1,20 @@
+Subject: Benvingut a "{SITENAME}"
+
+{WELCOME_MSG}
+
+Desa aquest correu per a la teua informació. Les dades del compte són les següents:
+
+----------------------------
+Nom d'usuari: {USERNAME}
+----------------------------
+
+La teua contrasenya està encriptada a la base de dades. Si l'oblides en podràs demanar una nova que s'activarà de la mateixa manera que aquest compte.
+
+Actualment el compte és inactiu. No podràs fer-lo servir fins que visites l'enllaç següent:
+
+{U_ACTIVATE}
+
+
+Gràcies per registrar-te.
+
+{EMAIL_SIG}

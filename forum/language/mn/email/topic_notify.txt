@@ -1,0 +1,20 @@
+Subject: Sedevt hariulsan tuhai - "{TOPIC_TITLE}"
+
+Sain uu {USERNAME},
+
+Ta "{SITENAME}" dahi "{TOPIC_TITLE}" bichlegiig manaj baigaa tul ene email-g huleen avch baina. Ta habgiin suuld zochilsnoos hoish ene sedevt hariult bichigdlee. Daraahi holboosoor damjin shineer orson bichleguudiig unshij chadah bogood ta tuhai sedevruu oroh hurtel dahij uuntei holbootoi medeelel irehgui.
+
+Shine bichlegiig uzeh bol end darna uu:
+{U_NEWEST_POST}
+
+Sedeviig uzehiig husvel end darna uu:
+{U_TOPIC}
+
+forumiig uzeh bol end darna uu:
+{U_FORUM}
+
+Ta ene sedeviig manahaa bolihiig husvel tuhai sedviin dood hesegt baih "Ene sedeviig managhaa bolih" holboos esvel daraah hayagaar damjin orno uu:
+
+{U_STOP_WATCHING_TOPIC}
+
+{EMAIL_SIG}

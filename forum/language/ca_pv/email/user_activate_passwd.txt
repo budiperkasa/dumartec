@@ -1,0 +1,17 @@
+Subject: Activació de la contrasenya nova
+
+Hola {USERNAME}
+
+Has rebut aquest correu electrònic perquè has demanat (o algú en el teu lloc) que se t'envie una contrasenya nova per al teu compte a "{SITENAME}". Si no has sol·licitat aquesta notificació, ignora-la. Si segueixes rebent-la posa't en contacte amb l'administrador del fòrum.
+
+Per fer servir la nova contrasenya cal que l'actives. Per fer-ho, fes clic a l'enllaç següent.
+
+{U_ACTIVATE}
+
+Si el procés es realitza correctament podràs iniciar la sessió fen servir la contrasenya següent:
+
+Contrasenya: {PASSWORD}
+
+Pots canviar aquesta contrasenya a la pàgina del teu perfil. Si tens cap problema posa't en contacte amb l'administrador del fòrum.
+
+{EMAIL_SIG}

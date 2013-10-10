@@ -1,0 +1,40 @@
+Subject:  "{POST_SUBJECT}" شڪايت جي باري ۾ 
+
+
+محترم {USERNAME}
+
+
+
+السلام عليڪم!
+
+
+
+"{TOPIC_TITLE}" نالي موضوع ۾  "{POST_SUBJECT}" جي زير عنوان تحرير جي باري ۾ توهان جي شڪايت جي سلسلي ۾ توهان کي اطلاع ٿو ڪجي ته توهان جي طرفان ڪيل شڪايت تي فورم جي ايڊيٽر ۽ بورڊ انتظاميا مناسب ڪارروائي مڪمل ڪري ان شڪايت کي نمٽائي ڇڏيو آيه ـ جيڪڏهن ان سلسلي ۾ توهان جي ذهن ۾ وڌيڪ ڪو سوال هجي ته توهان   {CLOSER_NAME} تان ذاتي پيغآم ڪري سگهو ٿا. مهرباني
+
+
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+
+
+Subject: Report closed - "{POST_SUBJECT}"
+
+
+
+Hello {USERNAME},
+
+
+
+You are receiving this notification because the report you filed on the post "{POST_SUBJECT}" in "{TOPIC_TITLE}" at "{SITENAME}" was handled by a moderator or by an administrator. The report was afterwards closed. If you have further questions contact {CLOSER_NAME} with a personal message.
+
+
+
+
+
+{EMAIL_SIG}

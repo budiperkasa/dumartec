@@ -1,0 +1,18 @@
+Subject: Bienvenue sur "{SITENAME}"
+
+{WELCOME_MSG}
+
+Veuillez conserver cet e-mail dans vos archives. Les informations concernant votre compte sont les suivantes :
+
+----------------------------
+Nom d'utilisateur : {USERNAME}
+Mot de passe : {PASSWORD}
+
+Lien du forum : {U_BOARD}
+----------------------------
+
+Veuillez ne pas oublier votre mot de passe car il a été crypté dans notre base de données et nous ne pouvons pas le retrouver à votre place. Cependant, si vous oubliez votre mot de passe, vous pouvez en demander un nouveau qui sera activé de la même manière que ce compte.
+
+Nous vous remercions de votre inscription.
+
+{EMAIL_SIG}

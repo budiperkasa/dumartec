@@ -1,0 +1,42 @@
+Subject: Benvingut a "{SITENAME}"
+
+{WELCOME_MSG}
+
+En compliment de la normativa COPPA actualment el teu compte és inactiu.
+
+Imprimeix aquest missatge i fes que algun dels teus pares o el vostre tutor el signe i li pose la data. Aleshores envia'l per fax a:
+
+{FAX_INFO}
+
+o envia'l per correu tradicional a:
+
+{MAIL_INFO}
+
+------------------------------ TALLA PER ACÍ ------------------------------
+Permís per participar a "{SITENAME}" - {U_BOARD}
+
+Nom d'usuari: {USERNAME}
+Correu electrònic: {EMAIL_ADDRESS}
+
+HE REVISAT LA INFORMACIÓ PROPORCIONADA PEL MEU FILL/A I PER LA PRESENT DONE EL MEU PERMÍS A "{SITENAME}" PER QUE EMMAGATZEME AQUESTA INFORMACIÓ. 
+ENTENC QUE AQUESTA INFORMACIÓ POT CANVIAR EN QUALSEVOL MOMENT INTRODUÏNT UNA CONTRASENYA. 
+ENTENC QUE TINC DRET A DEMANAR QUE AQUESTA INFORMACIÓ S'ELIMINE DE "{SITENAME}" EN QUALSEVOL MOMENT.
+
+
+Pare, mare o tutor 
+(nom): _____________________
+
+(signatura): __________________ 
+
+Data: _______________
+
+------------------------------ TALLA PER AQUÍ ------------------------------
+
+
+Un cop l'administrador haja rebut el formulari anterior per fax o per correu tradicional el teu compte serà activat.
+
+No oblides la teua contrasenya ja que està encriptada a la base de dades i no es pot recuperar. No obstant, si l'oblides en podràs demanar una nova que s'activarà de la mateixa manera que aquest compte.
+
+Gràcies per registrar-te.
+
+{EMAIL_SIG}

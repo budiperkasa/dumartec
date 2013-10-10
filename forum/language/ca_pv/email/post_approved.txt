@@ -1,0 +1,14 @@
+Subject: Entrada aprovada - "{POST_SUBJECT}"
+
+Hola {USERNAME},
+
+Has rebut aquesta notificació perquè la teua entrada "{POST_SUBJECT}" a "{SITENAME}" ha estat aprovada per un moderador o un administrador.
+
+Si vols visualitzar l'entrada, fes clic a l'enllaç següent:
+{U_VIEW_POST}
+
+Si vols visualitzar el tema, fes clic a l'enllaç següent:
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

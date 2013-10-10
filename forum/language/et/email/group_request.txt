@@ -1,0 +1,9 @@
+﻿Subject: Avaldus grupiga liitumiseks
+{USERNAME},
+
+Kasutaja "{REQUEST_USERNAME}" on avaldanud soovi liituda "{GROUP_NAME}" grupiga "{SITENAME}" foorumites.
+Et avaldus vastu võtta või tagasi lükata, vajuta järgnevat linki:
+
+{U_PENDING}
+
+{EMAIL_SIG}

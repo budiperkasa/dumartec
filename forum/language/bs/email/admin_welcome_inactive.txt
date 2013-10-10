@@ -1,0 +1,21 @@
+Subject: Dobrodošao/la na "{SITENAME}"
+
+Poštovanje,
+
+postavke tvojeg korisničkog računa su sljedeće:
+
+----------------------------
+Korisničko ime: {USERNAME}
+Šifra: {PASSWORD}
+URL foruma: {U_BOARD}
+----------------------------
+
+Tvoj korisnički račun je trenutno neaktivan; da bi se mogao/la prijaviti, administrator/ica foruma ga mora aktivirati.
+Obavijest o aktivaciji će ti stići e-mailom.
+
+Zapamti šifru jer je kriptirana u našoj bazi i ne može ti biti ponovo poslana.
+Ukoliko zaboraviš šifru, možeš zatražiti novu.
+
+Hvala ti što si se registrirao/la.
+
+{EMAIL_SIG}

@@ -1,0 +1,9 @@
+Subject: Tanai bulgeb negdeh huselt
+
+Hundet {USERNAME},
+
+The user "{REQUEST_USERNAME}" has requested to join the group "{GROUP_NAME}" you moderate on "{SITENAME}".
+
+{U_PENDING}
+
+{EMAIL_SIG}

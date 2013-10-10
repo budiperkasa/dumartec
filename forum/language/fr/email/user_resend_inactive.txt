@@ -1,0 +1,20 @@
+Subject: Bienvenue sur "{SITENAME}"
+
+{WELCOME_MSG}
+
+Veuillez conserver cet e-mail dans vos archives. L'information pour votre compte est la suivante :
+
+----------------------------
+Nom d'utilisateur : {USERNAME}
+----------------------------
+
+Vous mot de passe a été crypté dans notre base de données. Si vous oubliez votre mot de passe, vous pouvez en demander un nouveau qui sera activé de la même manière que ce compte.
+
+Votre compte est actuellement inactif. Vous ne pouvez pas l'utiliser jusqu'à ce que vous vous rendiez sur le lien suivant :
+
+{U_ACTIVATE}
+
+
+Nous vous remercions de votre inscription.
+
+{EMAIL_SIG}

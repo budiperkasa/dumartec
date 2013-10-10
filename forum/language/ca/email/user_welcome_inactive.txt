@@ -1,0 +1,22 @@
+Subject: Benvingut a "{SITENAME}"
+
+{WELCOME_MSG}
+
+Si us plau, guardeu aquest correu electrònic per a la vostra informació. Les dades del vostre compte són les següents:
+
+----------------------------
+Nom d'usuari: {USERNAME}
+Contrasenya: {PASSWORD}
+
+URL del fòrum: {U_BOARD}
+----------------------------
+
+Actualment el vostre compte és inactiu. No podeu utilitzar-lo fins que visiteu l'enllaç següent:
+
+{U_ACTIVATE}
+
+Si us plau, no oblideu la vostra contrasenya ja que està encriptada a la base de dades i no es pot recuperar. No obstant, si l'oblideu en podeu demanar una nova que s'activarà de la mateixa manera que aquest compte.
+
+Gràcies per registrar-vos.
+
+{EMAIL_SIG}

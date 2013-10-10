@@ -1,0 +1,19 @@
+Subject: Tornatz activar vòstre compte sus "{SITENAME}"
+
+Un administrator del forum demanda que vòstre compte siá activat tornamai. Vòstre compte es inactiu.
+Seguissètz las etapas çai jos per tornar activar vòstre compte.
+
+Gardatz aqueste corrièl dins vòstras archivas. L'entresenha de vòstre compte es la seguenta  :
+
+----------------------------
+Nom d'utilizaire :  {USERNAME}
+----------------------------
+
+Vòstre mot de pas foguèt criptat dins nòstra basa de donadas. Se doblidatz vòstre mot de pas, ne podètz demandar un novèl que serà activat del meteis biais que aqueste compte.
+
+Utilizatz lo ligam seguent per tornar activar vòstre compte :
+
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

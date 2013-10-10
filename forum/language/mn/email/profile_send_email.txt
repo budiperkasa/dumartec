@@ -1,0 +1,13 @@
+
+Sain uu {TO_USERNAME},
+
+Daraahi email "{SITENAME}" forum dahi tanii burtgeleer damjuulan {FROM_USERNAME} hereglegchees tand ilgeegdsen baina. Herev ene ni ul hussen medeelel, esvel yamar negen yos bus medeelel aguulj baina gej ta uzvel daraah hayagaar forumiin udirdagchtai holboo barina uu:
+
+{BOARD_CONTACT}
+
+{FROM_USERNAME}.
+
+Tand irsen medeelel:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

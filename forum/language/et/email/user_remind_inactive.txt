@@ -1,0 +1,11 @@
+Subject: Ebaaktiivse kasutaja meeldetuletus
+
+Tere {USERNAME},
+
+{REGISTER_DATE} registreerisid kasutaja "{SITENAME}" foorumites. Tänaseni pole sa aktiveerinud kasutajat, mis on nõutav foorumisse sisse logimiseks.
+Aktiveerimislink on järgnev:
+{U_ACTIVATE}
+
+Täname registreerimast "{SITENAME}" foorumites, me ootame teie osalemist.
+
+{EMAIL_SIG}

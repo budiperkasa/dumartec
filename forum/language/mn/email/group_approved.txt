@@ -1,0 +1,10 @@
+Subject: Tanii huselt zovshoorogdloo
+
+Bayar hurgey!
+
+"{SITENAME}" iin "{GROUP_NAME}" bulgemd negdeh tanii huselt zovshoorogdloo.
+Ta bulgemiihee medeelliig endees uzej chadna:
+
+{U_GROUP}
+
+{EMAIL_SIG}

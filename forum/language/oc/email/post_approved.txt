@@ -1,0 +1,15 @@
+Subject: Messatge aprobat - {POST_SUBJECT}
+
+Bonjorn {USERNAME},
+
+Recebètz aqueste corrièl per çò que vòstre messatge "{POST_SUBJECT}" sus "{SITENAME}" es estat aprobat per un moderaire o un administrator.
+
+Se volètz legir lo messatge, clicatz sul ligam seguent :
+
+{U_VIEW_POST}
+
+Se volètz legir lo tèma, clicatz sul ligam seguent :
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

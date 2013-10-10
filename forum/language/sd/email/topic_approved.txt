@@ -1,0 +1,51 @@
+Subject: موضوع "{TOPIC_TITLE}" کی منظوری
+
+
+
+محترم {USERNAME}
+
+
+
+السلام عليڪم!
+
+
+
+حوالو  "{SITENAME}"  تي توهان جي طرفان شروع ڪيل موضوع  "{TOPIC_TITLE}" توهان کي اطلاع ڏجي ٿو ته توهان جي طرفان شروع ڪيل موضوع انتظاميا جي طرفان اشاعت جي لاءِ منظور ڪيو ويو آهي، جيڪڏهن توهان موضوع جو مطالعو ڪرڻ چاهيو ٿا ته هيٺ ڏنل لنڪ کي استعمال ڪريو:
+
+
+
+{U_VIEW_TOPIC}
+
+
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+=============================
+
+Subject: Topic approved - "{TOPIC_TITLE}"
+
+
+
+Hello {USERNAME},
+
+
+
+You are receiving this notification because your topic "{TOPIC_TITLE}" at "{SITENAME}" was approved by a moderator or administrator.
+
+
+
+If you want to view the topic, click the following link:
+
+{U_VIEW_TOPIC}
+
+
+
+
+
+{EMAIL_SIG}

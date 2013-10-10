@@ -1,0 +1,56 @@
+Subject: Post disapproved - "{POST_SUBJECT}"
+
+Hello {USERNAME},
+
+You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+
+The following reason was given for the disapproval:
+
+{REASON}
+
+
+{EMAIL_SIG}ايڊيٽر  بورڊ جي انتظاميا توهان جي هيٺين تحرير هيٺ ڏنل سببن جي بنياد تي اشاعت جي لاءِ منظور ناهي ڪئي 
+
+توهان کي مطلع ڪجي ٿو ـ
+
+
+
+{REASON}
+
+
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+
+
+
+
+Subject: Post disapproved - "{POST_SUBJECT}"
+
+
+
+Hello {USERNAME},
+
+
+
+You are receiving this notification because your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+
+
+
+The following reason was given for the disapproval:
+
+
+
+{REASON}
+
+
+
+
+
+{EMAIL_SIG}

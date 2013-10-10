@@ -1,0 +1,19 @@
+Subject: Teretulemast "{SITENAME}" foorumisse
+
+{WELCOME_MSG}
+
+Palume hoida see e-kiri alles. Sinu konto andmed on järgnevad:
+
+----------------------------
+Kasutajanimi: {USERNAME}
+Parool: {PASSWORD}
+
+Foorumi URL: {U_BOARD}
+----------------------------
+Sinu kasutaja pole hetkel aktiveeritud. Administraator peab seda tegema enne, kui saad sisse logida. Sa saad uue e-kirja, kui see juhtub.
+
+Palun ära unusta oma parooli, sest see on meie andmebaasis krüpteeritud ja me ei saa seda sulle öelda. Kui sa siiski unustada oma parooli, saad sa teha uue parooli, mille aktiveerimine on samasugune, nagu kasutaja aktiveeriminegi.
+
+Täname registreerimast
+
+{EMAIL_SIG}

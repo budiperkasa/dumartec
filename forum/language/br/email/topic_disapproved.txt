@@ -1,0 +1,12 @@
+Subject: Sujed bet nac'het - "{TOPIC_TITLE}"
+
+Demat {USERNAME},
+
+Kaset eo bet ar postel-mañ deoc'h peogwir eo bet nac'het ho sujed "{TOPIC_TITLE}" war "{SITENAME}" gant ur merour pe ur c'hasour.
+
+An abeg da-heul a zo bet roet evit nac'hañ anezhañ :
+
+{REASON}
+
+
+{EMAIL_SIG}

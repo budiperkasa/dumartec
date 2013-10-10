@@ -1,0 +1,11 @@
+Subject: Recordatori de compte inactiu
+
+Hola {USERNAME},
+
+El {REGISTER_DATE} vau registrar-vos a "{SITENAME}". Fins al moment no heu activat el compte, la qual cosa és un prerequisit per iniciar la sessió al fòrum. Per a la vostra comoditat, a continuació us repetim l'enllaç d'activació.
+
+{U_ACTIVATE}
+
+Gràcies per registrar-vos a "{SITENAME}", esperem la vostra participació.
+
+{EMAIL_SIG}

@@ -1,0 +1,18 @@
+Subject: Benvenguda suls fòroms de "{SITENAME}"
+
+{WELCOME_MSG}
+
+Vos conselham de gardar aqueste messatge dins vòstras archivas. Vaquí las entresenhas a prepaus del vòstre compte  :
+
+----------------------------
+Nom d'utilizaire  : {USERNAME}
+Mot de pas  : {PASSWORD}
+
+Adreça del fòrom  : {U_BOARD}
+----------------------------
+
+Doblidètz pas vòstre mot de pas es criptat dins nòstra basa de donadas e que lo poirem pas recobrar per vos. Ça que la, se doblidatz vòstre mot de pas, ne podètz demandar un novèl que serà activat del meteis biais que aqueste compte.
+
+Mercé de vos èsser enregistrat.
+
+{EMAIL_SIG}

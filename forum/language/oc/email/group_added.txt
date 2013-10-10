@@ -1,0 +1,11 @@
+Subject: Sètz estat apondut a un grop
+
+Òsca,
+
+Sètz estat apondut al grop "{GROUP_NAME}" sus "{SITENAME}".
+Aquesta accion es estada efectuada pel moderaire del grop o l'administrator del sit ; contactatz-los per mai d'entresenhas.
+
+Podètz veire vòstras entresenhas de grops aicí :
+{U_GROUPCP}
+
+{EMAIL_SIG}

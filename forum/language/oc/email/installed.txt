@@ -1,0 +1,23 @@
+Subject: phpBB installat
+
+Òsca,
+
+Venètz d'installar phpBB sus vòstre servidor.
+
+Aqueste corrièl conten d'entresenhas importantas a prepaus de vòstra installacion que vos conselham de conversar. Lo mot de pas foguèt criptat dins la basa de donadas e lo poirem doncas pas pus recobrar ; ça que la, ne podètz demandar un novèl se lo perdètz.
+
+----------------------------
+
+Escais : {USERNAME}
+
+Mot de pas : {PASSWORD}
+
+Adreça del forum : {U_BOARD}
+
+----------------------------
+
+Des informations utiles pòdon èsser consultées dins lo repertòri "docs" de vòstre installacion, o sul forum de support officiel francophone - http://fòroms.phpbb-fr.com
+
+Dins lo but de conserver vòstre forum en seguretat, il es fortement recommandé de vos tenir al courant dels mises a jorn del script, en vos inscrivant a la Newsletter del grop phpBB.com - http://www.phpbb.com/support/
+
+{EMAIL_SIG}

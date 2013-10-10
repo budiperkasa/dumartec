@@ -1,0 +1,8 @@
+Subject: Denúncia Bloqueada - "{POST_SUBJECT}"
+
+Olá {USERNAME},
+
+Você recebeu esta mensagem porque a sua Denúncia enviada sobre a mensagem "{POST_SUBJECT}" no tópico "{TOPIC_TITLE}" em "{SITENAME}" foi vista por um moderador ou um administrador. A Denúncia foi em seguida bloquada. Se você tem mais perguntas a este respeito, contacte o utilizador {CLOSER_NAME} por uma Mensagem Particular.
+
+
+{EMAIL_SIG}

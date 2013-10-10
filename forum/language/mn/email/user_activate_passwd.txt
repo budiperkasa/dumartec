@@ -1,0 +1,17 @@
+Subject: Shine nuuts ugiin idevhijuulelt
+
+Sain uu {USERNAME}
+
+Ta (esvel tanii omnoos hen negen) "{SITENAME}" dahi burtgeldee shine nuuts ug uusgehiig hussen tul enehuu email-g huleen avch baina. Ta hervee uuniig ooroo huseegui bol toohgui baihiig hicheene uu! Hervee ta iim email huleen avsaar baival forumiin udrirdagchtai holboo barina uu!
+
+Shine nuuts ug hereglehiig hussen bol end darna uu.
+
+{U_ACTIVATE}
+
+Abjilttai bolson bol ta enehuu nuuts ugiig ashiglan nevtreh bolomjtoi:
+
+Nuuts ug: {PASSWORD}
+
+Medeej ta ene nuuts ugee huviin tohirgoondoo oorchilj bolno. Herev ta yamar negen hundreltei zuiltei uchirval forumiin udirdagchtai holboo barina uu!
+
+{EMAIL_SIG}

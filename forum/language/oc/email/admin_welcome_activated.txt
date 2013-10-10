@@ -1,0 +1,7 @@
+Subject: Compte activat
+
+Bonjorn {USERNAME},
+
+Vòstre compte sus "{SITENAME}" ven d'èsser activat, vos podètz connectar en utilizant vòstres nom d'utilizaire e mot de pas qu'avètz recebut dins un corrièl precedent.
+
+{EMAIL_SIG}

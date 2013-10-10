@@ -1,0 +1,11 @@
+Subject: Compte inactif
+
+Bonjour {USERNAME},
+
+Le {REGISTER_DATE}, vous avez inscrit un nouveau compte sur "{SITENAME}". Depuis ce jour, vous n'avez pas activé ce compte, ce qui est obligatoire afin de vous connecter au forum. Pour votre confort, le lien d'activation est répété ci-dessous.
+
+{U_ACTIVATE}
+
+Nous vous remercions de votre inscription sur "{SITENAME}", nous attendons avec impatience votre participation.
+
+{EMAIL_SIG}

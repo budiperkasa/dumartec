@@ -1,0 +1,7 @@
+Subject: Kont bet enaouet
+
+Demat {USERNAME},
+
+Enaouet eo bet ho kont war "{SITENAME}", gallout a rit bremañ bezañ anavezet gant ar forom, oc'h ober gant an anv-ezel hag ar ger-tremen a zo bet roet deoc'h en ur postel all.
+
+{EMAIL_SIG}

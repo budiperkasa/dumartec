@@ -1,0 +1,19 @@
+Subject: Adenaouit ho kont war "{SITENAME}"
+
+Goulennet en deus ur merour eus ar forom ma vefe enaouet ho kont en-dro. Evit ar mare eo neuze dizoberiant.
+Heuliit an urzhioù da heul hag e vo enaouet en-dro.
+
+Dalc'hit ar postel-mañ e-barzh ho tielloù. Setu an titouroù diwar-benn ho kont :
+
+----------------------------
+Anv-Ezel: {USERNAME}
+----------------------------
+
+Rineget eo bet ho ker-tremen en hon diaz-titouroù. Ma vefe kollet ganeoc'h e c'hellfec'h goulenn unan nevez! a veze enaouet evel m'eo bet graet ar c'hont-mañ amañ.
+
+Heuliit al liamm-mañ evit enaouiñ ho kont en-dro :
+
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

@@ -1,0 +1,15 @@
+Subject: Shine huviin zurvas irlee
+
+Sain uu {USERNAME},
+
+Erheb tanii "{SITENAME}" dahi burtgelruu "{AUTHOR_NAME}" gishuunees huviin zurvas irlee.
+
+{SUBJECT}
+
+Ta doorhi holboosoor orj zurvasaa uzne uu:
+
+{U_INBOX}
+
+Sanuulahad, hervee ta shine huviin zurvas irehed ingej medegdej baihiig husehgui bol huviin tohirgoondoo tohiruulna uu.
+
+{EMAIL_SIG}

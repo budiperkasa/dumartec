@@ -1,0 +1,82 @@
+Subject: Welcome to "{SITENAME}"
+
+{WELCOME_MSG}
+
+Please keep this e-mail for your records. Your account information is as follows:
+
+----------------------------
+Username: {USERNAME}
+----------------------------
+
+Your password has been encrypted in our database. Should you forget your password you can request a new one which will be activated in the same way as this account.
+
+Your account is currently inactive. You cannot use it until you visit the following link:
+
+{U_ACTIVATE}
+
+
+Thank you for registering.
+
+{EMAIL_SIG}نه ٿو ڪري سگهجي پر جيڪڏهن توهان پنهنجو پاس ورڊ ڀلجي وڃ ٿا ته نئين پاس ورڊ لاءِ درخواست ڪري سگهو ٿا ان نئين پاس ورڊ کي به اهڙِيءَ طرح فعال ڪرڻ ضروري آهي جهڙيءَ طرح کاتو فعال ڪيو وڃِ ٿو ـ
+
+توهان جو کاتو في الحال غِر فعال آهي ـ توهان ان کاتي کي ان وقت تائين استعمال نه ٿا ڪري سگهو جيسيتائين توهان هيٺ ڏنل لنڪ جي ذريعي بورڊ جو دورو نه ٿا ڪريو ـ
+
+
+
+{U_ACTIVATE}
+
+
+
+
+
+رُڪنيت اختيار ڪرڻ لاءِ ٿورائتا آهيون.
+
+
+
+{EMAIL_SIG}
+
+
+
+
+
+
+
+Subject: Welcome to "{SITENAME}"
+
+
+
+{WELCOME_MSG}
+
+
+
+Please keep this e-mail for your records. Your account information is as follows:
+
+
+
+----------------------------
+
+Username: {USERNAME}
+
+----------------------------
+
+
+
+Your password has been encrypted in our database. Should you forget your password you can request a new one which will be activated in the same way as this account.
+
+
+
+Your account is currently inactive. You cannot use it until you visit the following link:
+
+
+
+{U_ACTIVATE}
+
+
+
+
+
+Thank you for registering.
+
+
+
+{EMAIL_SIG}

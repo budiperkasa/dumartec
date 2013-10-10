@@ -1,0 +1,20 @@
+Subject: Bem-vindo ao Fórum {SITENAME}
+
+{WELCOME_MSG}
+
+Por favor guardar este email para consultas posteriores. A informação da sua conta é a seguinte:
+
+----------------------------
+Username: {USERNAME}
+----------------------------
+
+Por favor não se esque�a da sua senha já que a mesma foi codificada na nossa base de dados e não a podemos recuperar para lhe dar. Contudo, caso se esqueça da senha, pode solicitar uma nova, sendo activada da mesma forma desta conta.
+
+A sua conta encontra-se actualmente inactiva. Você não poderá usá-la enquanto não visitar o seguinte endereço:
+
+{U_ACTIVATE}
+
+
+Obrigado por Registrar-se.
+
+{EMAIL_SIG}

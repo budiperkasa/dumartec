@@ -1,0 +1,22 @@
+Subject: "{SITENAME}" forumd tavtai morilno uu
+
+{WELCOME_MSG}
+
+Enehuu email-iig daraa ni hereg bolno gesen uudnees hadgalna uu. Tanii burtgeliin medeelel:
+
+----------------------------
+Hereglegchiin ner: {USERNAME}
+Nuuts ug: {PASSWORD}
+
+Board URL: {U_BOARD}
+----------------------------
+
+Tanii burtgel yag odoogoor idevhigui baina. Ta doorhi hayagaar orj burtgelee idevhijuulne uu:
+
+{U_ACTIVATE}
+
+Tanii nuuts ug manai medeelliin sand kodlogdon orson bogood bid tand uuniig medej ogch chadahgui gedgiig anhaarna uu! Gehdee ta nuuts ugee martsan tohioldold burtgelee idevhijuulsen shig shine nuuts ug huleen avch bolno.
+
+Burtuulsend bayarlalaa!
+
+{EMAIL_SIG}

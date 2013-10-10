@@ -1,0 +1,11 @@
+Subject: Lembranza de conta inactiva
+
+Ola {USERNAME},
+
+O {REGISTER_DATE} rexistraches unha nova conta de usuario en "{SITENAME}". Dende entón non activaches esta conta, que é un pre-requisito para poder iniciar unha sesión identificándote nos foros. Podes activala agora, se así o consideras, coa seguinte ligazón que che achegamos novamente:
+
+{U_ACTIVATE}
+
+Moitas grazas por te rexistrares en "{SITENAME}", agardamos verte axiña polos foros.
+
+{EMAIL_SIG}
